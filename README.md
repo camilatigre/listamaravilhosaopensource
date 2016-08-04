@@ -29,8 +29,8 @@ Nome | Label | </>
 [jRuby](https://github.com/jruby/jruby/labels/beginner) | beginner | Ruby 
 
 
-## Contribuindo:
-* Faça um Fork do Projeto e abra seu PR :heavy_check_mark:
+## Recomendações:
+* [Quero Contribuir](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md).
 * Manter a lista organizada em ordem alfabética, primeiro por projeto depois por linguagem.
 * Ajude a aumentar a lista! :rocket:
 
