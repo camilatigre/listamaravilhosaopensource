@@ -5,14 +5,14 @@ Lista com links de projetos open-source para `iniciantes` dividido por linguagem
 ---
 
 ## pt-br
-Nome | </> 
----- | ---- 
-[Projeto](Link) | JS 
+Nome | Label | </> 
+---- | ---- | ---- 
+[Nome do Projeto](Link) | Label | Linguagem 
 
 ## en
-Nome | </> 
----- | ---- 
-[AVA](https://github.com/avajs/ava/labels/good%20for%20beginner) | JS 
+Nome | Label | </>  
+---- | ---- | ----
+[AVA](https://github.com/avajs/ava/labels/good%20for%20beginner) | good for beginner | JS 
 
 
 ## Contribuindo:
