@@ -10,4 +10,4 @@
 
 Depois que o seu PR for unido ao projeto, você pode deletar a sua branch.
 
-### [<-- Back](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/README.md)
+### [<-- Back](https://github.com/camilatigre/listamaravilhosaopensource)
