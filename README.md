@@ -12,7 +12,10 @@ Nome | Label | </>
 ## en
 Nome | Label | </>  
 ---- | ---- | ----
-[AVA](https://github.com/avajs/ava/labels/good%20for%20beginner) | good for beginner | JS 
+[AVA](https://github.com/avajs/ava/labels/good%20for%20beginner) | good for beginner | JS
+[EmberJs](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) | Good for New Contributors | JS
+[PounchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) | first timers only | JS
+[Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner) | good-for-beginner | JS
 
 
 ## Contribuindo:
