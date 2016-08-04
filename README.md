@@ -11,13 +11,15 @@ Nome | Label | </>
 [Caravel](https://github.com/caravel-tool/caravel) | nenhuma | JS
 [CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS
 [ChessJs](https://github.com/LFeh/chess) | nenhuma | JS
+[DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS
 [FreeTime](https://github.com/free-time/) | nenhuma | JS
 [GeradorEValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf) | nenhuma | JS
 [Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS
 [jQuerySVGtoInline](https://github.com/tiagoporto/jquery-svg-to-inline) | nenhuma | JS
 [Kajado](https://github.com/kajado) | nenhuma | CSS
 [Kibe](https://github.com/woliveiras/kibe) | nenhuma | JS
-[Klipim](https://github.com/floripajs/klipim) | nenhuma | JS 
+[Klipim](https://github.com/floripajs/klipim) | nenhuma | JS
+[KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate) | nenhuma | JS
 [Konfy](https://github.com/guantanamo/konfy) | nenhuma | JS 
 [Mojito](https://github.com/floripajs/mojito) | nenhuma | JS
 [Pastel](https://github.com/woliveiras/pastel) | nenhuma | JS
@@ -26,7 +28,6 @@ Nome | Label | </>
 [SwillBoilerplate](https://github.com/tiagoporto/swill-boilerplate) | nenhuma | JS
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS
-
 [VIMParaNoobs](https://github.com/woliveiras/vimparanoobs) | nenhuma | JS
 [ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS
 
