@@ -7,7 +7,15 @@ Lista com links de projetos open-source para `iniciantes` dividido por linguagem
 ## pt-br
 Nome | Label | </> 
 ---- | ---- | ---- 
-[Nome do Projeto](Link) | Label | Linguagem 
+[Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS
+[Kibe](https://github.com/woliveiras/kibe) | nenhuma | JS
+[Klipim](https://github.com/floripajs/klipim) | nenhuma | JS 
+[Konfy](https://github.com/guantanamo/konfy) | nenhuma | JS 
+[Mojito](https://github.com/floripajs/mojito) | nenhuma | JS
+[Pastel](https://github.com/woliveiras/pastel) | nenhuma | JS
+[VIMParaNoobs](https://github.com/woliveiras/vimparanoobs) | nenhuma | JS
+[ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS
+
 
 ## en
 Nome | Label | </>  
