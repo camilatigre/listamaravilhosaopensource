@@ -6,15 +6,30 @@ Lista com links de projetos open-source para `iniciantes` dividido por linguagem
 
 ## pt-br
 Nome | Label | </> 
----- | ---- | ---- 
+---- | ---- | ----
+[AccesibilityButtons](https://github.com/tiagoporto/accessibility-buttons) | nenhuma | CSS
+[Caravel](https://github.com/caravel-tool/caravel) | nenhuma | JS
+[CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS
+[ChessJs](https://github.com/LFeh/chess) | nenhuma | JS
+[FreeTime](https://github.com/free-time/) | nenhuma | JS
+[GeradorEValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf) | nenhuma | JS
 [Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS
+[jQuerySVGtoInline](https://github.com/tiagoporto/jquery-svg-to-inline) | nenhuma | JS
+[Kajado](https://github.com/kajado) | nenhuma | CSS
 [Kibe](https://github.com/woliveiras/kibe) | nenhuma | JS
 [Klipim](https://github.com/floripajs/klipim) | nenhuma | JS 
 [Konfy](https://github.com/guantanamo/konfy) | nenhuma | JS 
 [Mojito](https://github.com/floripajs/mojito) | nenhuma | JS
 [Pastel](https://github.com/woliveiras/pastel) | nenhuma | JS
+[PianoKeyboard](https://github.com/LFeh/piano) | nenhuma | JS
+[PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | -
+[SwillBoilerplate](https://github.com/tiagoporto/swill-boilerplate) | nenhuma | JS
+[tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS
+[TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS
+
 [VIMParaNoobs](https://github.com/woliveiras/vimparanoobs) | nenhuma | JS
 [ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS
+
 
 
 ## en
@@ -30,7 +45,7 @@ Nome | Label | </>
 
 
 ## Recomendações:
-* [Quero Contribuir](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md).
+* [Quero Contribuir!](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md)
 * Manter a lista organizada em ordem alfabética, primeiro por projeto depois por linguagem.
 * Ajude a aumentar a lista! :rocket:
 
