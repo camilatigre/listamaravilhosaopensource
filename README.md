@@ -1,9 +1,17 @@
 # Lista Maravilhosa de Projetos Open-Source :dancer:
 
-Lista com links de projetos open-source para `iniciantes` dividido por linguagem.
+Lista com links de projetos open-source para os níveis: `iniciante`, `intermediário` e `avançado` dividido por linguagem.
 
 ---
 
+# Escolha seu nível:
+1. [Iniciante](https://github.com/camilatigre/listamaravilhosaopensource#iniciante) 
+2. [Intermediário](https://github.com/camilatigre/listamaravilhosaopensource#intermediario)
+3. [Avançado](https://github.com/camilatigre/listamaravilhosaopensource#avancado)
+
+---
+
+# Iniciante
 ## pt-br
 Nome | Label | </> 
 ---- | ---- | ----
@@ -17,12 +25,10 @@ Nome | Label | </>
 [Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS
 [jQuerySVGtoInline](https://github.com/tiagoporto/jquery-svg-to-inline) | nenhuma | JS
 [Kajado](https://github.com/kajado) | nenhuma | CSS
-[Kibe](https://github.com/woliveiras/kibe) | intermediate | JS
 [Klipim](https://github.com/floripajs/klipim) | nenhuma | JS
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate) | nenhuma | JS
 [Konfy](https://github.com/guantanamo/konfy) | nenhuma | JS 
 [Mojito](https://github.com/floripajs/mojito) | nenhuma | JS
-[Pastel](https://github.com/woliveiras/pastel) | intermediate | JS
 [PianoKeyboard](https://github.com/LFeh/piano) | nenhuma | JS
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | Markdown
 [SwillBoilerplate](https://github.com/tiagoporto/swill-boilerplate) | nenhuma | JS
@@ -43,6 +49,29 @@ Nome | Label | </>
 [Shumway](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only) | first-timers-only | JS
 [PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) | newbie | PHP 
 [jRuby](https://github.com/jruby/jruby/labels/beginner) | beginner | Ruby 
+
+# Intermediário
+## pt-br
+Nome | Label | </> 
+---- | ---- | ----
+[Kibe](https://github.com/woliveiras/kibe) | intermediate | JS
+[Pastel](https://github.com/woliveiras/pastel) | intermediate | JS
+
+
+
+## en
+Nome | Label | </>  
+---- | ---- | ----
+
+# Avançado
+## pt-br
+Nome | Label | </> 
+---- | ---- | ----
+
+
+## en
+Nome | Label | </>  
+---- | ---- | ----
 
 
 ## Recomendações:
