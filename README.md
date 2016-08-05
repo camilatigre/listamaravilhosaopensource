@@ -46,7 +46,7 @@ Nome | Label | </>
 
 
 ## Recomendações:
-* [Quero Contribuir!](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md)
+* [Quero Contribuir com a lista!](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md)
 * Manter a lista organizada em ordem alfabética, primeiro por projeto depois por linguagem.
 * Ajude a aumentar a lista! :rocket:
 
