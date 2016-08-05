@@ -6,8 +6,8 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 # Escolha seu nível:
 1. [Iniciante](https://github.com/camilatigre/listamaravilhosaopensource#iniciante) 
-2. [Intermediário](https://github.com/camilatigre/listamaravilhosaopensource#intermediario)
-3. [Avançado](https://github.com/camilatigre/listamaravilhosaopensource#avancado)
+2. [Intermediário](https://github.com/camilatigre/listamaravilhosaopensource#intermediário)
+3. [Avançado](https://github.com/camilatigre/listamaravilhosaopensource#avançado)
 
 ---
 
