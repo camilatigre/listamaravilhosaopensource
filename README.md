@@ -4,6 +4,19 @@ Lista com links de projetos open-source para `iniciantes` dividido por linguagem
 
 ---
 
+## O que colocar em "como contribuir"?
+
+Adicione essas informações, separadas por vírgula:
+
+Como contribuir |
+---- | 
+Existem issues abertas |
+Enviando sugestões |
+Melhorando a documentação |
+Testando o Projeto |
+Enviando Feedbacks caso esteja difícil de seguir a documentação |
+Correções ortográficas |
+
 ## pt-br
 
 Nome | Label | </> | Como contribuir
