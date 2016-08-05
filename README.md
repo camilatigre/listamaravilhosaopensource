@@ -18,18 +18,18 @@ Nome | Label | </> | Como contribuir
 [Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS |
 [jQuerySVGtoInline](https://github.com/tiagoporto/jquery-svg-to-inline) | nenhuma | JS |
 [Kajado](https://github.com/kajado) | nenhuma | CSS |
-[Kibe](https://github.com/woliveiras/kibe) | nenhuma | JS |
+[Kibe](https://github.com/woliveiras/kibe) | nenhuma | JS | Existem issues abertas, Enviando sugestões, Melhorando a documentação, Testando o Projeto, Enviando Feedbacks caso esteja difícil de seguir a documentação
 [Klipim](https://github.com/floripajs/klipim) | nenhuma | JS |
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate) | nenhuma | JS |
 [Konfy](https://github.com/guantanamo/konfy) | nenhuma | JS |
 [Mojito](https://github.com/floripajs/mojito) | nenhuma | JS |
-[Pastel](https://github.com/woliveiras/pastel) | nenhuma | JS |
+[Pastel](https://github.com/woliveiras/pastel) | nenhuma | JS | Existem issues abertas, Enviando sugestões, Melhorando a documentação, Testando o Projeto, Enviando Feedbacks caso esteja difícil de seguir a documentação
 [PianoKeyboard](https://github.com/LFeh/piano) | nenhuma | JS |
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | - |
 [SwillBoilerplate](https://github.com/tiagoporto/swill-boilerplate) | nenhuma | JS |
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS |
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS |
-[VIMParaNoobs](https://github.com/woliveiras/vimparanoobs) | nenhuma | JS |
+[VIMParaNoobs](https://github.com/woliveiras/vimparanoobs) | nenhuma | JS | Correções ortográficas, Enviando sugestões, Enviando Feedbacks caso esteja difícil de seguir a documentação
 [ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS |
 
 
