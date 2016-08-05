@@ -4,6 +4,22 @@ Lista com links de projetos open-source para `iniciantes` dividido por linguagem
 
 ---
 
+## Labels
+
+label | dificulty
+----  | ----     
+first timers only | is good for newbies
+good for beginner | is good for beginners (lol)
+Good for New Contributors | is good for beginners and intermediates
+
+## Level of skills
+
+level | knowledge
+----  | ----     
+newbie | never contributed or worked in a project, it is beginning to study
+beginner | has some knowledge but not worked or contribute in more than one project
+intermediate | has worked in more than one project
+
 ## pt-br
 Nome | Label | </> 
 ---- | ---- | ----
