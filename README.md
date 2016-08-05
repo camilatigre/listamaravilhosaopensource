@@ -1,6 +1,6 @@
 # Lista Maravilhosa de Projetos Open-Source :dancer:
 
-Lista com links de projetos open-source para `iniciantes` dividido por linguagem.
+Lista com links de projetos open-source para iniciantes dividido por linguagem e nível de dificuldade.
 
 ---
 
@@ -46,9 +46,10 @@ Nome | Label | </>
 
 
 ## Recomendações:
-* [Quero Contribuir!](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md)
-* Manter a lista organizada em ordem alfabética, primeiro por projeto depois por linguagem.
+* [Quero Contribuir com a lista!](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md)
+* Manter a lista organizada em ordem alfabética, primeiro por projeto depois por linguagem
 * Ajude a aumentar a lista! :rocket:
+* Compartilhe/Ajude a divulgar o projeto
 
 
 Obrigada!
