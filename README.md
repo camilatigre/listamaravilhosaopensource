@@ -11,8 +11,8 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 ---
 
-# Iniciante
-## pt-br
+## Iniciante
+*pt-br*
 Nome | Label | </> 
 ---- | ---- | ----
 [AccesibilityButtons](https://github.com/tiagoporto/accessibility-buttons) | nenhuma | CSS
@@ -39,7 +39,7 @@ Nome | Label | </>
 
 
 
-## en
+*en*
 Nome | Label | </>  
 ---- | ---- | ----
 [AVA](https://github.com/avajs/ava/labels/good%20for%20beginner) | good for beginner | JS
@@ -50,26 +50,24 @@ Nome | Label | </>
 [PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) | newbie | PHP 
 [jRuby](https://github.com/jruby/jruby/labels/beginner) | beginner | Ruby 
 
-# Intermediário
-## pt-br
+## Intermediário
+*pt-br*
 Nome | Label | </> 
 ---- | ---- | ----
 [Kibe](https://github.com/woliveiras/kibe) | intermediate | JS
 [Pastel](https://github.com/woliveiras/pastel) | intermediate | JS
 
-
-
-## en
+*en*
 Nome | Label | </>  
 ---- | ---- | ----
 
-# Avançado
-## pt-br
+## Avançado
+*pt-br*
 Nome | Label | </> 
 ---- | ---- | ----
 
 
-## en
+*en*
 Nome | Label | </>  
 ---- | ---- | ----
 
