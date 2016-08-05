@@ -12,7 +12,7 @@ first timers only | is good for newbies
 good for beginner | is good for beginners (lol)
 Good for New Contributors | is good for beginners and intermediates
 
-## Level of skills
+## Nível de dificuldade
 
 level | knowledge
 ----  | ----     
