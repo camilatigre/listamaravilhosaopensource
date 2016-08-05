@@ -1,6 +1,6 @@
 # Lista Maravilhosa de Projetos Open-Source :dancer:
 
-Lista com links de projetos open-source para `iniciantes` dividido por linguagem.
+Lista com links de projetos open-source para iniciantes dividido por linguagem e nível de dificuldade.
 
 ---
 
