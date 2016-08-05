@@ -51,6 +51,9 @@ Nome | Label | </>
 [PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) | newbie | PHP 
 [jRuby](https://github.com/jruby/jruby/labels/beginner) | beginner | Ruby 
 
+---
+
+
 ### Intermediário
 #### pt-br
 Nome | Label | </> 
@@ -61,6 +64,10 @@ Nome | Label | </>
 #### en
 Nome | Label | </>  
 ---- | ---- | ----
+
+
+---
+
 
 ### Avançado
 #### pt-br
