@@ -1,6 +1,6 @@
 # Lista Maravilhosa de Projetos Open-Source :dancer:
 
-Lista com links de projetos open-source para os níveis: `iniciante`, `intermediário` e `avançado` dividido por linguagem.
+Lista com links de projetos open-source para os níveis: `iniciante`, `intermediário` e `avançado`. Dividido por linguagem e idomas.
 
 ---
 
