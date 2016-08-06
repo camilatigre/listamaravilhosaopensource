@@ -80,7 +80,7 @@ Nome | Label | </>
 #### pt-br
 Nome | Label | </> 
 ---- | ---- | ----
-[MetalJS](https://github.com/metal/metal.js) | hard | JS
+[MetalJS](https://github.com/metal/metal.js) | UI Component Library | JS
 
 #### en
 Nome | Label | </>  
