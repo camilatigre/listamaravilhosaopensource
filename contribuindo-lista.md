@@ -17,4 +17,4 @@ Depois que o seu PR for unido ao projeto, você pode deletar a sua branch.
 * E qualquer outra coisa que você consiga pensar pra melhorar a Lista Maravilhosa (:
 
 
-#### [<-- Voltar para página principal](https://github.com/camilatigre/listamaravilhosaopensource)
+#### [<-- Voltar para página principal](README.md)
