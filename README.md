@@ -4,7 +4,7 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 ---
 # Como funciona:
-1. [Quero alterar/incluir meu/um projeto](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/meuprojeto.md)
+1. [Quero alterar/incluir meu/um projeto](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/meu-projeto.md)
 2. [Quero contribuir com um projeto](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/contribuindo.md)
 3. [Quero contribuir com a Lista Maravilhosa](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/contribuindo-lista.md) 
 
