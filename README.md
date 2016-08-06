@@ -3,6 +3,13 @@
 Lista com links de projetos open-source para os níveis: `iniciante`, `intermediário` e `avançado`. Dividido por linguagem e idomas.
 
 ---
+# Como funciona:
+1. [Quero alterar/incluir meu/um projeto](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/meuprojeto.md)
+2. [Quero contribuir com um projeto](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/contribuindo.md)
+3. [Quero contribuir com a Lista Maravilhosa](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/contribuindo-lista.md) 
+
+---
+
 
 # Escolha seu nível:
 1. [Iniciante](https://github.com/camilatigre/listamaravilhosaopensource#iniciante) 
@@ -79,11 +86,3 @@ Nome | Label | </>
 Nome | Label | </>  
 ---- | ---- | ----
 
-
-## Recomendações:
-* [Quero Contribuir!](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/CONTRIBUTING.md)
-* Manter a lista organizada em ordem alfabética, primeiro por projeto depois por linguagem.
-* Ajude a aumentar a lista! :rocket:
-
-
-Obrigada!
