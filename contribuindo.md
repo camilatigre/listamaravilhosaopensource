@@ -1,13 +1,15 @@
 # Quero contribuir com um projeto
 
 **Passo a Passo**
+
 * [Escolha seu nível](https://github.com/camilatigre/listamaravilhosaopensource#escolha-seu-nível) 
 * Escolha um projeto
 * Já no projeto procure pelo label indicado na tabela 
-  (exemplo)
+  ![alt text](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/src/img/exemplo.png "imagem de exemplo")
 * Agora é só escolher!
 
 **Para enviar sua contribuição**
+
 1. Faça Fork do projeto
 2. Crie uma nova branch: `git checkout -b nova-branch`
 3. Commit suas mudanças: `git commit -m 'Adicionei alguma coisa'`
