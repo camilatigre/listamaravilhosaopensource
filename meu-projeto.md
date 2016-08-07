@@ -13,7 +13,7 @@ Depois que o seu PR for unido ao projeto, você pode deletar a sua branch.
 **Formato e dicas**
 * Escolha o nível do seu projeto
 * Veja a ordem correta para coloca-lo. A lista está em ordem alfabética e dividida por idioma.
-* [NomeDoProjeto]( Link ) | label | linguagem
+* [NomeDoProjeto]( Link )¹ | label | linguagem
 * Quando escolher um label lembre de adicioná-lo nas issues do seu repositório para que outros devs possam encontra-lá.
 
 **Sugestões de Label**
@@ -23,4 +23,6 @@ Depois que o seu PR for unido ao projeto, você pode deletar a sua branch.
 * Manter os labels entre 5 e 20 caracters
 
 
-#### [<-- Voltar para página principal](https://github.com/camilatigre/listamaravilhosaopensource)
+¹ `[NomeDoProjeto](Link)`
+
+#### [<-- Voltar para página principal](README.md)

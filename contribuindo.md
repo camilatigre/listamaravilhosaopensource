@@ -2,10 +2,10 @@
 
 **Passo a Passo**
 
-* [Escolha seu nível](https://github.com/camilatigre/listamaravilhosaopensource#escolha-seu-nível) 
+* [Escolha seu nível](README.md#escolha-seu-nível) 
 * Escolha um projeto
 * Já no projeto procure pelo label indicado na tabela 
-  ![alt text](https://github.com/camilatigre/listamaravilhosaopensource/blob/master/src/img/exemplo.png "imagem de exemplo")
+  ![alt text](src/img/exemplo.png "imagem de exemplo")
 * Agora é só escolher!
 
 **Para enviar sua contribuição**
@@ -17,4 +17,4 @@
 5. Abra um Pull Request
 
 
-#### [<-- Voltar para página principal](https://github.com/camilatigre/listamaravilhosaopensource)
+#### [<-- Voltar para página principal](README.md)
