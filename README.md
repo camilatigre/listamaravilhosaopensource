@@ -1,12 +1,15 @@
 # Lista Maravilhosa de Projetos Open-Source :dancer:
 
-Lista com links de projetos open-source para os níveis: `iniciante`, `intermediário` e `avançado`. Dividido por linguagem e idomas. *Pesquise nos projetos escolhidos pela Label indicada na tabela*
+Lista com links de projetos open-source para os níveis: `iniciante`, `intermediário` e `avançado`. Dividido por linguagem e idomas.
 
 ---
+
 # Como funciona:
 1. [Quero alterar/incluir meu/um projeto](meu-projeto.md)
 2. [Quero contribuir com um projeto](contribuindo.md)
 3. [Quero contribuir com a Lista Maravilhosa](contribuindo-lista.md) 
+
+**Pesquise nos projetos escolhidos pela Label indicada na tabela**
 
 ---
 
