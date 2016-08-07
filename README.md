@@ -45,6 +45,7 @@ Nome | Label | </>
 [SwillBoilerplate](https://github.com/tiagoporto/swill-boilerplate) | nenhuma | JS
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS
+[VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend) | good for beginner | VimL
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs) | good for beginner | JS
 [ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS
 
