@@ -48,6 +48,7 @@ Nome | Label | Linguagem
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend) | good for beginner | VimL
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs) | good for beginner | JS
 [ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS
+[PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br) | nenhuma | HTML, CSS
 
 
 #### en
