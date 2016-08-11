@@ -76,7 +76,8 @@ Nome | Label | Linguagem
 #### en
 Nome | Label | Linguagem  
 ---- | ---- | ----
-
+[AngularJs](https://angularjs.org) | MVVM | JS
+[IONIC](http://ionicframework.com) | mobile development | JS
 
 ---
 
@@ -90,3 +91,12 @@ Nome | Label | Linguagem
 #### en
 Nome | Label | Linguagem  
 ---- | ---- | ----
+[Aurelia](http://aurelia.io) | UI-framework | JS
+[React](https://facebook.github.io/react) | UI-framework | JS
+[Vue.js](http://vuejs.org) | UI-framework | JS
+[React Native](https://facebook.github.io/react-native) | mobile development | JS
+[NativeScript](https://www.nativescript.org) | UI-framework | JS
+[Immutable](https://facebook.github.io/immutable-js) | Immutable data structures | JS
+[Redux](https://facebook.github.io/react) | Predictable state container | JS
+[Electron](http://electron.atom.io) | desktop development | JS
+[NW.js](http://nwjs.io) | desktop development | JS
