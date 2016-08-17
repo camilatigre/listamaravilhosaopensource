@@ -23,58 +23,62 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 ### Iniciante
 #### pt-br
-Nome | Label | Linguagem 
+Nome | Label | Linguagem
 ---- | ---- | ----
-[AccesibilityButtons](https://github.com/tiagoporto/accessibility-buttons) | nenhuma | CSS
+[Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons) | lib | CSS, JS
 [Caravel](https://github.com/caravel-tool/caravel) | nenhuma | JS
-[CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS
 [ChessJs](https://github.com/LFeh/chess) | nenhuma | JS
+[CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS
 [FreeTime](https://github.com/free-time/) | nenhuma | JS
-[GeradorEValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf) | nenhuma | JS
+[Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf) | Lib | JS
 [Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS
-[jQuerySVGtoInline](https://github.com/tiagoporto/jquery-svg-to-inline) | nenhuma | JS
 [Kajado](https://github.com/kajado) | nenhuma | CSS
 [Klipim](https://github.com/floripajs/klipim) | nenhuma | JS
-[KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate) | nenhuma | JS
 [Konfy](https://github.com/guantanamo/konfy) | nenhuma | JS
+[KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate) | nenhuma | JS
 [Mojito](https://github.com/floripajs/mojito) | nenhuma | JS
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1) | beginners | PHP
 [PianoKeyboard](https://github.com/LFeh/piano) | nenhuma | JS
+[PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br) | nenhuma | HTML, CSS
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | Markdown
-[SwillBoilerplate](https://github.com/tiagoporto/swill-boilerplate) | nenhuma | JS
+[Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text) | Tutorial | Markdown
+[SVG Music Logos](https://github.com/tiagoporto/svg-music-logos) | SVG logos | SVG, CSS
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS
+[ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend) | good for beginner | VimL
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs) | good for beginner | JS
-[ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS
-[PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br) | nenhuma | HTML, CSS
 
 
 #### en
-Nome | Label | Linguagem  
+Nome | Label | Linguagem
 ---- | ---- | ----
 [AVA](https://github.com/avajs/ava/labels/good%20for%20beginner) | good for beginner | JS
 [EmberJs](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) | Good for New Contributors | JS
 [FreeCodeCamp](https://github.com/mozilla/shumway/labels/good-for-beginner) | good-for-beginner | JS
+[jRuby](https://github.com/jruby/jruby/labels/beginner) | beginner | Ruby
+[PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) | newbie | PHP
 [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) | first timers only | JS
 [Shumway](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only) | first-timers-only | JS
-[PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) | newbie | PHP
-[jRuby](https://github.com/jruby/jruby/labels/beginner) | beginner | Ruby
 
 ---
 
 
 ### Intermediário
 #### pt-br
-Nome | Label | Linguagem 
+Nome | Label | Linguagem
 ---- | ---- | ----
+[jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip) | jQuery plugin | JS
+[jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline) | jQuery plugin | JS, SVG
 [Kibe](https://github.com/woliveiras/kibe) | intermediate | JS
 [Pastel](https://github.com/woliveiras/pastel) | intermediate | JS
 [School](https://github.com/resultsystems/school) | intermediate | PHP
+[Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | YO generator | HTML, CSS, JS, Markdown
+[Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown
 
 #### en
-Nome | Label | Linguagem  
+Nome | Label | Linguagem
 ---- | ---- | ----
 [AngularJs](https://angularjs.org) | MVVM | JS
 [IONIC](http://ionicframework.com) | mobile development | JS
@@ -84,12 +88,12 @@ Nome | Label | Linguagem
 
 ### Avançado
 #### pt-br
-Nome | Label | Linguagem 
+Nome | Label | Linguagem
 ---- | ---- | ----
 [MetalJS](https://github.com/metal/metal.js) | nenhuma | JS
 
 #### en
-Nome | Label | Linguagem  
+Nome | Label | Linguagem
 ---- | ---- | ----
 [Aurelia](http://aurelia.io) | UI-framework | JS
 [React](https://facebook.github.io/react) | UI-framework | JS
