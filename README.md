@@ -76,6 +76,7 @@ Nome | Label | Linguagem
 [School](https://github.com/resultsystems/school) | intermediate | PHP
 [Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | YO generator | HTML, CSS, JS, Markdown
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown
+[Bash Igniter](https://github.com/omarkdev/bash-igniter) | Facilitator for Code Igniter | PHP
 
 #### en
 Nome | Label | Linguagem
