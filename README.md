@@ -82,6 +82,7 @@ Nome | Label | Linguagem
 Nome | Label | Linguagem
 ---- | ---- | ----
 [AngularJs](https://angularjs.org) | MVVM | JS
+[Gulp WP Translate](https://github.com/upcesar/gulp-wp-translate) | Gulp WP Theme and Plugins Translation | JS
 [IONIC](http://ionicframework.com) | mobile development | JS
 
 ---
