@@ -81,7 +81,7 @@ Nome | Label | Linguagem
 #### en
 Nome | Label | Linguagem
 ---- | ---- | ----
-[elementary OS Website](https://github.com/elementary/website) | bitesize | C#
+[Elementary OS Website](https://github.com/elementary/website) | bitesize | C#
 [AngularJs](https://angularjs.org) | MVVM | JS
 [Gulp WP Translate](https://github.com/upcesar/gulp-wp-translate) | Gulp WP Theme and Plugins Translation | JS
 [IONIC](http://ionicframework.com) | mobile development | JS
