@@ -106,3 +106,4 @@ Nome | Label | Linguagem
 [Redux](https://facebook.github.io/react) | Predictable state container | JS
 [Electron](http://electron.atom.io) | desktop development | JS
 [NW.js](http://nwjs.io) | desktop development | JS
+[php-nlgen](https://github.com/DrDub/php-nlgen) | text generation | PHP
