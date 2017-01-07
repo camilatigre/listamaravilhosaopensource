@@ -94,7 +94,7 @@ Nome | Label | Linguagem
 #### pt-br
 Nome | Label | Linguagem
 ---- | ---- | ----
-[MetalJS](https://github.com/metal/metal.js) | nenhuma | JS
+[MetalJS](https://github.com/metal/metal.js) | UI-framework | JS
 
 #### en
 Nome | Label | Linguagem
