@@ -78,6 +78,7 @@ Nome | Label | Linguagem
 [Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | YO generator | HTML, CSS, JS, Markdown
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown
 [Bash Igniter](https://github.com/omarkdev/bash-igniter) | Facilitator for Code Igniter | PHP
+[Odin](https://github.com/wpbrasil/odin) | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS
 
 #### en
 Nome | Label | Linguagem
