@@ -70,20 +70,21 @@ Nome | Label | Linguagem
 #### pt-br
 Nome | Label | Linguagem
 ---- | ---- | ----
+[Bash Igniter](https://github.com/omarkdev/bash-igniter) | Facilitator for Code Igniter | PHP
+[Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | YO generator | HTML, CSS, JS, Markdown
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip) | jQuery plugin | JS
 [jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline) | jQuery plugin | JS, SVG
 [Kibe](https://github.com/woliveiras/kibe) | intermediate | JS
+[Odin](https://github.com/wpbrasil/odin) | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS
 [Pastel](https://github.com/woliveiras/pastel) | intermediate | JS
 [School](https://github.com/resultsystems/school) | intermediate | PHP
-[Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | YO generator | HTML, CSS, JS, Markdown
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown
-[Bash Igniter](https://github.com/omarkdev/bash-igniter) | Facilitator for Code Igniter | PHP
 
 #### en
 Nome | Label | Linguagem
 ---- | ---- | ----
-[Elementary OS Website](https://github.com/elementary/website) | bitesize | C#
 [AngularJs](https://angularjs.org) | MVVM | JS
+[Elementary OS Website](https://github.com/elementary/website) | bitesize | C#
 [Gulp WP Translate](https://github.com/upcesar/gulp-wp-translate) | Gulp WP Theme and Plugins Translation | JS
 [IONIC](http://ionicframework.com) | mobile development | JS
 
@@ -100,11 +101,11 @@ Nome | Label | Linguagem
 Nome | Label | Linguagem
 ---- | ---- | ----
 [Aurelia](http://aurelia.io) | UI-framework | JS
-[React](https://facebook.github.io/react) | UI-framework | JS
-[Vue.js](http://vuejs.org) | UI-framework | JS
-[React Native](https://facebook.github.io/react-native) | mobile development | JS
-[NativeScript](https://www.nativescript.org) | UI-framework | JS
-[Immutable](https://facebook.github.io/immutable-js) | Immutable data structures | JS
-[Redux](https://facebook.github.io/react) | Predictable state container | JS
 [Electron](http://electron.atom.io) | desktop development | JS
+[Immutable](https://facebook.github.io/immutable-js) | Immutable data structures | JS
+[NativeScript](https://www.nativescript.org) | UI-framework | JS
 [NW.js](http://nwjs.io) | desktop development | JS
+[React](https://facebook.github.io/react) | UI-framework | JS
+[React Native](https://facebook.github.io/react-native) | mobile development | JS
+[Redux](https://facebook.github.io/react) | Predictable state container | JS
+[Vue.js](http://vuejs.org) | UI-framework | JS
