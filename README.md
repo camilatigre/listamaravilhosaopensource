@@ -79,6 +79,7 @@ Nome | Label | Linguagem
 [Pastel](https://github.com/woliveiras/pastel) | intermediate | JS
 [School](https://github.com/resultsystems/school) | intermediate | PHP
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown
+[Borgert CMS](https://github.com/odirleiborgert/borgert-cms) | CMS Open Source created with Laravel | PHP
 
 #### en
 Nome | Label | Linguagem
