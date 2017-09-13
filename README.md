@@ -50,6 +50,7 @@ Nome | Label | Linguagem | Idioma
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos) | SVG logos | SVG, CSS | EN
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS | EN
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS | EN
+[Timetracking](https://github.com/mvmjacobs/timetracking) | help wanted | TS | EN
 [ValidJs](https://github.com/dleitee/valid.js) | nenhuma | JS | EN
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend) | good for beginner | VimL | EN
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs) | good for beginner | JS | PTBR
