@@ -10,6 +10,8 @@
 
 **Para enviar sua contribuição**
 
+Antes de começar verifique e siga as instruções para contribuição do repositório. Caso não possua você pode seguir as instruções abaixo:
+
 1. Faça Fork do projeto
 2. Crie uma nova branch: `git checkout -b nova-branch`
 3. Commit suas mudanças: `git commit -m 'Adicionei alguma coisa'`
