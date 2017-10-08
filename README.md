@@ -113,4 +113,4 @@ Nome | Label | Linguagem | Idioma
 [React Native](https://facebook.github.io/react-native) | mobile development | JS | EN
 [Redux](https://facebook.github.io/react) | Predictable state container | JS | EN
 [Vue.js](http://vuejs.org) | UI-framework | JS | EN
-[Meteor](https://www.meteor.com/) | UI-framework | JS | EN
+[Meteor](https://www.meteor.com/) | JavaScript app platform | JS | EN
