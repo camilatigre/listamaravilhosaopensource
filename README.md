@@ -50,6 +50,7 @@ Nome | Label | Linguagem | Idioma
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | Markdown | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text) | Tutorial | Markdown | :us:
 [Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/) | nenhuma | HTML, JS, CSS | PTBR
+[Speaker Fight](https://github.com/luanfonceca/speakerfight) | iniciantes | Python, Django | :brazil:
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos) | SVG logos | SVG, CSS | :us:
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS | :us:
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS | :us:
