@@ -33,7 +33,9 @@ Nome | Label | Linguagem | Idioma
 [Caravel](https://github.com/caravel-tool/caravel) | nenhuma | JS | :us:
 [ChessJs](https://github.com/LFeh/chess) | nenhuma | JS | :us:
 [CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS | :us:
+[DataScience.pizza](https://github.com/leportella/datascience-pizza) | nenhuma | | :brazil:
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | :us:
+[Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) | nenhuma | Markdown | :brazil:
 [FreeTime](https://github.com/free-time/) | nenhuma | JS | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf) | Lib | JS | :brazil:
 [Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS | :us:
@@ -47,6 +49,7 @@ Nome | Label | Linguagem | Idioma
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br) | nenhuma | HTML, CSS | :brazil:
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | Markdown | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text) | Tutorial | Markdown | :us:
+[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/) | nenhuma | HTML, JS, CSS | PTBR
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos) | SVG logos | SVG, CSS | :us:
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS | :us:
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS | :us:
@@ -68,6 +71,7 @@ Nome | Label | Linguagem | Idioma
 [Pastel](https://github.com/woliveiras/pastel) | intermediate | JS | :us:
 [School](https://github.com/resultsystems/school) | intermediate | PHP | :us:
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown | :us:
+[TrulyUI](http://truly-ui.tk/) | WebComponents | JS | :us:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms) | CMS Open Source created with Laravel | PHP | :us:
 
 
@@ -104,6 +108,7 @@ Nome | Label | Linguagem | Idioma
 ### Avançado
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[Angular](https://angular.io) | UI-framework | JS | :us:
 [Aurelia](http://aurelia.io) | UI-framework | JS | :us:
 [Electron](http://electron.atom.io) | desktop development | JS | :us:
 [Immutable](https://facebook.github.io/immutable-js) | Immutable data structures | JS | :us:
@@ -113,3 +118,4 @@ Nome | Label | Linguagem | Idioma
 [React Native](https://facebook.github.io/react-native) | mobile development | JS | :us:
 [Redux](https://facebook.github.io/react) | Predictable state container | JS | :us:
 [Vue.js](http://vuejs.org) | UI-framework | JS | :us:
+[Meteor](https://www.meteor.com/) | JavaScript app platform | JS | :us:
