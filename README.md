@@ -69,7 +69,9 @@ Nome | Label | Linguagem | Idioma
 [Kibe](https://github.com/woliveiras/kibe) | intermediate | JS | :us:
 [Odin](https://github.com/wpbrasil/odin) | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel) | intermediate | JS | :us:
+[rows](https://github.com/turicas/rows) | intermediate | Python | :us:
 [School](https://github.com/resultsystems/school) | intermediate | PHP | :us:
+[Speakerfight](https://github.com/luanfonceca/speakerfight) | intermediate | Python | :us:
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/) | WebComponents | JS | :us:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms) | CMS Open Source created with Laravel | PHP | :us:
