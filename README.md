@@ -34,6 +34,7 @@ Nome | Label | Linguagem | Idioma
 [ChessJs](https://github.com/LFeh/chess) | nenhuma | JS | EN
 [CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS | EN
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | EN
+[Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) | nenhuma | Markdown | PTBR
 [FreeTime](https://github.com/free-time/) | nenhuma | JS | EN
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf) | Lib | JS | PTBR
 [Gorilla](https://github.com/floripajs/gorilla) | nenhuma | JS | EN
