@@ -105,6 +105,7 @@ Nome | Label | Linguagem | Idioma
 ### Avançado
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[Angular](https://angular.io) | UI-framework | JS | EN
 [Aurelia](http://aurelia.io) | UI-framework | JS | EN
 [Electron](http://electron.atom.io) | desktop development | JS | EN
 [Immutable](https://facebook.github.io/immutable-js) | Immutable data structures | JS | EN
