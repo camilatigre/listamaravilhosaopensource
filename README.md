@@ -48,6 +48,7 @@ Nome | Label | Linguagem | Idioma
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br) | nenhuma | HTML, CSS | PTBR
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | Markdown | PTBR
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text) | Tutorial | Markdown | EN
+[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/) | nenhuma | HTML, JS, CSS | PTBR
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos) | SVG logos | SVG, CSS | EN
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS | EN
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS | EN
