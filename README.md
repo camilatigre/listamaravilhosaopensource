@@ -33,6 +33,7 @@ Nome | Label | Linguagem | Idioma
 [Caravel](https://github.com/caravel-tool/caravel) | nenhuma | JS | EN
 [ChessJs](https://github.com/LFeh/chess) | nenhuma | JS | EN
 [CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS | EN
+[DataScience.pizza](https://github.com/leportella/datascience-pizza) | nenhuma | | PTBR
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | EN
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) | nenhuma | Markdown | PTBR
 [FreeTime](https://github.com/free-time/) | nenhuma | JS | EN
