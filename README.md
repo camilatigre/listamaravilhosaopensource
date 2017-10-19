@@ -35,6 +35,7 @@ Nome | Label | Linguagem | Idioma
 [CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS | :us:
 [DataScience.pizza](https://github.com/leportella/datascience-pizza) | nenhuma | | :brazil:
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | :us:
+[DevTranslate](https://github.com/devtranslate) | translate | Markdown, JSON, etc | :brazil: :us:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) | nenhuma | Markdown | :brazil:
 [FreeTime](https://github.com/free-time/) | nenhuma | JS | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf) | Lib | JS | :brazil:
