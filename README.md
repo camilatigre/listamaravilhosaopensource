@@ -63,6 +63,7 @@ Nome | Label | Linguagem | Idioma
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Bash Igniter](https://github.com/omarkdev/bash-igniter) | Facilitator for Code Igniter | PHP | :us:
+[Borgert CMS](https://github.com/odirleiborgert/borgert-cms) | CMS Open Source created with Laravel | PHP | :us:
 [Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | YO generator | HTML, CSS, JS, Markdown | :us:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip) | jQuery plugin | JS | :us:
 [jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline) | jQuery plugin | JS, SVG | :us:
@@ -74,7 +75,6 @@ Nome | Label | Linguagem | Idioma
 [Speakerfight](https://github.com/luanfonceca/speakerfight) | intermediate | Python | :us:
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/) | WebComponents | JS | :us:
-[Borgert CMS](https://github.com/odirleiborgert/borgert-cms) | CMS Open Source created with Laravel | PHP | :us:
 
 
 #### Avançado
