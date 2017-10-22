@@ -45,12 +45,14 @@ Nome | Label | Linguagem | Idioma
 [Konfy](https://github.com/guantanamo/konfy) | nenhuma | JS | :us:
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate) | nenhuma | JS | :us:
 [Mojito](https://github.com/floripajs/mojito) | nenhuma | JS | :us:
+[Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes) | iniciantes | HTML, CSS, JS | :brazil:
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1) | beginners | PHP | :us:
 [PianoKeyboard](https://github.com/LFeh/piano) | nenhuma | JS | :us:
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br) | nenhuma | HTML, CSS | :brazil:
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | Markdown | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text) | Tutorial | Markdown | :us:
 [Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/) | nenhuma | HTML, JS, CSS | PTBR
+[Speaker Fight](https://github.com/luanfonceca/speakerfight) | iniciantes | Python, Django | :brazil:
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos) | SVG logos | SVG, CSS | :us:
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS | :us:
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS | :us:
