@@ -34,6 +34,7 @@ Nome | Label | Linguagem | Idioma
 [ChessJs](https://github.com/LFeh/chess) | nenhuma | JS | :us:
 [CSS Components](https://github.com/LFeh/css-components) | nenhuma | CSS | :us:
 [DataScience.pizza](https://github.com/leportella/datascience-pizza) | nenhuma | | :brazil:
+[Datasus](https://github.com/danicat/datasus) | dados públicos, saúde | R | :us:
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | :us:
 [DevTranslate](https://github.com/devtranslate) | translate | Markdown, JSON, etc | :brazil: :us:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) | nenhuma | Markdown | :brazil:
@@ -50,7 +51,7 @@ Nome | Label | Linguagem | Idioma
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br) | nenhuma | HTML, CSS | :brazil:
 [PosteMais](https://github.com/frontendbr/poste-mais) | nenhuma | Markdown | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text) | Tutorial | Markdown | :us:
-[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/) | nenhuma | HTML, JS, CSS | PTBR
+[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/) | nenhuma | HTML, JS, CSS | :brazil:
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos) | SVG logos | SVG, CSS | :us:
 [tEmbO](https://github.com/guisouza/tEmbO) | nenhuma | JS | :us:
 [TheJekyllWay](https://github.com/thejekyllway) | nenhuma | JS | :us:
