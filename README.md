@@ -73,6 +73,7 @@ Nome | Label | Linguagem | Idioma
 [Odin](https://github.com/wpbrasil/odin) | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel) | intermediate | JS | :us:
 [rows](https://github.com/turicas/rows) | intermediate | Python | :us:
+[Serenata](https://github.com/datasciencebr/serenata-de-amor) | intermediate | Python | :us:
 [School](https://github.com/resultsystems/school) | intermediate | PHP | :us:
 [Speakerfight](https://github.com/luanfonceca/speakerfight) | intermediate | Python | :us:
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate) | Swill Boilerplate Docs | HTML, Markdown | :us:
