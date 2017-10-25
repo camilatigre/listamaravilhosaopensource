@@ -34,6 +34,7 @@ Nome | Label | Linguagem | Idioma
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
 [DataScience.pizza](https://github.com/leportella/datascience-pizza "Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos") | nenhuma | | :brazil:
+[Datasus](https://github.com/danicat/datasus "An Interface for the Brazilian Public Healthcare Data Repository (DATASUS) for the R Language") | dados públicos, saúde | R | :us:
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | :us:
 [DevTranslate](https://github.com/devtranslate "Project created to help find and translate technology documents to any language.") | translate | Markdown, JSON, etc | :brazil: :us:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
@@ -73,6 +74,7 @@ Nome | Label | Linguagem | Idioma
 [Pastel](https://github.com/woliveiras/pastel "Small boilerplate to start projects with Grunt and Bower - Front End") | intermediate | JS | :us:
 [rows](https://github.com/turicas/rows "A common, beautiful interface to tabular data, no matter the format") | intermediate | Python | :us:
 [School](https://github.com/resultsystems/school "Sistema de gerenciamento para escola em Laravel com VueJS (Não é mais Angular)") | intermediate | PHP | :us:
+[Serenata](https://github.com/datasciencebr/serenata-de-amor "🕵 Artificial Intelligence for social control of public administration") | intermediate | Python | :us:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
