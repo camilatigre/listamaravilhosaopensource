@@ -51,7 +51,7 @@ Nome | Label | Linguagem | Idioma
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br "Projeto para incentivar adoção de animais pessoas que amam pokemons virtuais") | nenhuma | HTML, CSS | :brazil:
 [PosteMais](https://github.com/frontendbr/poste-mais "Sugestões de temas e assuntos para postagens.") | nenhuma | Markdown | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text "Settings, snippets and good plugins for Sublime Text.") | Tutorial | Markdown | :us:
-[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/ "Simulador de Renda Fixa Pré e Pós") | nenhuma | HTML, JS, CSS | PTBR
+[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/ "Simulador de Renda Fixa Pré e Pós") | nenhuma | HTML, JS, CSS | :brazil:
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos "🎵 A collection of logos and symbols from bands, musicians and related in SVG.") | SVG logos | SVG, CSS | :us:
 [tEmbO](https://github.com/guisouza/tEmbO "🐘 My own tiny react-like rendering engine.") | nenhuma | JS | :us:
 [TheJekyllWay](https://github.com/thejekyllway "An project open source for learning Jekyll") | nenhuma | JS | :us:
