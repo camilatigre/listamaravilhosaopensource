@@ -36,6 +36,7 @@ Nome | Label | Linguagem | Idioma
 [DataScience.pizza](https://github.com/leportella/datascience-pizza "Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos") | nenhuma | | :brazil:
 [Datasus](https://github.com/danicat/datasus "An Interface for the Brazilian Public Healthcare Data Repository (DATASUS) for the R Language") | dados públicos, saúde | R | :us:
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | :us:
+[Developer Practice](https://github.com/alinebastos/dev-practice) | nenhuma | Markdown | :us:
 [DevTranslate](https://github.com/devtranslate "Project created to help find and translate technology documents to any language.") | translate | Markdown, JSON, etc | :brazil: :us:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
