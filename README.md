@@ -75,6 +75,7 @@ Nome | Label | Linguagem | Idioma
 [Odin](https://github.com/wpbrasil/odin "Framework and base theme for development with WordPress.") | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel "Small boilerplate to start projects with Grunt and Bower - Front End") | intermediate | JS | :us:
 [rows](https://github.com/turicas/rows "A common, beautiful interface to tabular data, no matter the format") | intermediate | Python | :us:
+[RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Library | JS | :brazil:
 [School](https://github.com/resultsystems/school "Sistema de gerenciamento para escola em Laravel com VueJS (Não é mais Angular)") | intermediate | PHP | :us:
 [Serenata](https://github.com/datasciencebr/serenata-de-amor "🕵 Artificial Intelligence for social control of public administration") | intermediate | Python | :us:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
