@@ -47,6 +47,7 @@ Nome | Label | Linguagem | Idioma
 [Konfy](https://github.com/guantanamo/konfy "Your conference made easy") | nenhuma | JS | :us:
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | nenhuma | JS | :us:
 [Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | nenhuma | JS | :us:
+[Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes) | iniciantes | HTML, CSS, JS | :brazil:
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1 "This is the development of the new version of the Ofir, a simple php framework.") | beginners | PHP | :us:
 [PianoKeyboard](https://github.com/LFeh/piano "🎹 Piano Keyboard developed in HTML, CSS and JavaScript") | nenhuma | JS | :us:
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br "Projeto para incentivar adoção de animais pessoas que amam pokemons virtuais") | nenhuma | HTML, CSS | :brazil:
@@ -68,6 +69,7 @@ Nome | Label | Linguagem | Idioma
 [Bash Igniter](https://github.com/omarkdev/bash-igniter "Ignite your CodeIgniter") | Facilitator for Code Igniter | PHP | :us:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
+[Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
 [Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | YO generator | HTML, CSS, JS, Markdown | :us:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
 [jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace <image> and <object> embed SVG inline.") | jQuery plugin | JS, SVG | :us:
@@ -81,12 +83,12 @@ Nome | Label | Linguagem | Idioma
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
-[Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
 
 
 #### Avançado
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[AZK](https://github.com/azukiapp) | Open Source engine to orchestrate development environments on your local machine. | JS | :brazil:
 [MetalJS](https://github.com/metal/metal.js "Build UI components in a solid, flexible way") | UI-framework | JS | :us:
 
 ---
