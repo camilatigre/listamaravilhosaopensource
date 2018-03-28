@@ -70,6 +70,7 @@ Nome | Label | Linguagem | Idioma
 [Bash Igniter](https://github.com/omarkdev/bash-igniter "Ignite your CodeIgniter") | Facilitator for Code Igniter | PHP | :us:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
+[Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
 [Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | YO generator | HTML, CSS, JS, Markdown | :us:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
