@@ -57,6 +57,7 @@ Nome | Label | Linguagem | Idioma
 [Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/ "Simulador de Renda Fixa Pré e Pós") | nenhuma | HTML, JS, CSS | :brazil:
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos "🎵 A collection of logos and symbols from bands, musicians and related in SVG.") | SVG logos | SVG, CSS | :us:
 [tEmbO](https://github.com/guisouza/tEmbO "🐘 My own tiny react-like rendering engine.") | nenhuma | JS | :us:
+[Teste Habilidade PHP](https://github.com/LeandroLS/teste-hablidade-php "Um projeto open source para testar seus conhecimentos PHP") | iniciantes | PHP | :brazil:
 [TheJekyllWay](https://github.com/thejekyllway "An project open source for learning Jekyll") | nenhuma | JS | :us:
 [Timetracking](https://github.com/mvmjacobs/timetracking "A simple command line app to track your time.") | help wanted | TS | :us:
 [ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
