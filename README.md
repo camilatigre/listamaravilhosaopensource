@@ -45,7 +45,7 @@ Nome | Label | Linguagem | Idioma
 [Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | nenhuma | JS | :us:
 [Kajado](https://github.com/kajado "CSS Library Open Source") | nenhuma | CSS | :us:
 [Klipim](https://github.com/floripajs/klipim "Choose your dev sticker") | nenhuma | JS | :us:
-[Konfy](https://github.com/guantanamo/konfy "Your conference made easy") | nenhuma | JS | :us:
+[Konfy](https://github.com/creynders/konfy "Your conference made easy") | nenhuma | JS | :us:
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | nenhuma | JS | :us:
 [Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | nenhuma | JS | :us:
 [Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes) | iniciantes | HTML, CSS, JS | :brazil:
