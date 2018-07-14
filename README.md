@@ -68,7 +68,6 @@ Nome | Label | Linguagem | Idioma
 #### Intermediário
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
-
 [Bash Igniter](https://github.com/omarkdev/bash-igniter "Ignite your CodeIgniter") | Facilitator for Code Igniter | PHP | :us:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
