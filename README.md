@@ -68,6 +68,7 @@ Nome | Label | Linguagem | Idioma
 #### Intermediário
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+
 [Bash Igniter](https://github.com/omarkdev/bash-igniter "Ignite your CodeIgniter") | Facilitator for Code Igniter | PHP | :us:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
@@ -83,6 +84,7 @@ Nome | Label | Linguagem | Idioma
 [RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Library | JS | :brazil:
 [School](https://github.com/resultsystems/school "Sistema de gerenciamento para escola em Laravel com VueJS (Não é mais Angular)") | intermediate | PHP | :us:
 [Serenata](https://github.com/datasciencebr/serenata-de-amor "🕵 Artificial Intelligence for social control of public administration") | intermediate | Python | :us:
+[Shiohara CMS](https://github.com/openviglet/shiohara "CMS to Model Content and create site using Javascript") | intermediate | Java/Javascript | :us:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
 [Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
