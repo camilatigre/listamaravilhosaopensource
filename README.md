@@ -6,8 +6,6 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 ---
 
-:rocket: Last update: 11/09/2017 18:24
-
 # Como funciona:
 1. [Quero alterar/incluir meu/um projeto](meu-projeto.md)
 2. [Quero contribuir com um projeto](contribuindo.md)
