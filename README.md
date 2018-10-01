@@ -61,7 +61,7 @@ Nome | Label | Linguagem | Idioma
 [ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
-
+[Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil: 
 
 #### Intermediário
 Nome | Label | Linguagem | Idioma
