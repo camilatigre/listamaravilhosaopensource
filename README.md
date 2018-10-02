@@ -28,6 +28,8 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
+[Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
+[Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
