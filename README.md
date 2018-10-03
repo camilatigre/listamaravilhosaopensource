@@ -93,6 +93,7 @@ Nome | Label | Linguagem | Idioma
 [Turing AI](https://github.com/openviglet/turing "AI Gateway") | intermediate | Java/Javascript | :us:
 [Vecchio API](https://github.com/openviglet/vecchio "API Gateway") | intermediate | Java/Javascript | :us:
 [Ondetempico](https://github.com/ondetempico "Compartilhe os melhores locais para se andar de skate") | intermediate | HTML, CSS, JS | :brazil:
+[Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
 
 
 #### Avançado
