@@ -40,6 +40,7 @@ Nome | Label | Linguagem | Idioma
 [DevTranslate](https://github.com/devtranslate "Project created to help find and translate technology documents to any language.") | translate | Markdown, JSON, etc | :brazil: :us:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
 [Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil: 
+[Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil: 
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
