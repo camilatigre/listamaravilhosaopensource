@@ -81,6 +81,7 @@ Nome | Label | Linguagem | Idioma
 [jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace <image> and <object> embed SVG inline.") | jQuery plugin | JS, SVG | :us:
 [Kibe](https://github.com/woliveiras/kibe "A simple Yeoman Generator to start projects with the most common tasks of my workflow using Gulp.") | intermediate | JS | :us:
 [Odin](https://github.com/wpbrasil/odin "Framework and base theme for development with WordPress.") | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
+[Osiris-UI](https://github.com/osiris-ui/osiris "A Vue.js 2.0 universal responsive UI component library") | VueJS UI Component library | HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel "Small boilerplate to start projects with Grunt and Bower - Front End") | intermediate | JS | :us:
 [rows](https://github.com/turicas/rows "A common, beautiful interface to tabular data, no matter the format") | intermediate | Python | :us:
 [RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Library | JS | :brazil:
