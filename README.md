@@ -29,6 +29,7 @@ Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
 [Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
+[Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
@@ -40,6 +41,7 @@ Nome | Label | Linguagem | Idioma
 [DevTranslate](https://github.com/devtranslate "Project created to help find and translate technology documents to any language.") | translate | Markdown, JSON, etc | :brazil: :us:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
 [Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil: 
+[Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil: 
 [Flute - Development Facilitator](https://github.com/marcosstefani/sucuri "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
@@ -95,6 +97,7 @@ Nome | Label | Linguagem | Idioma
 [Turing AI](https://github.com/openviglet/turing "AI Gateway") | intermediate | Java/Javascript | :us:
 [Vecchio API](https://github.com/openviglet/vecchio "API Gateway") | intermediate | Java/Javascript | :us:
 [Ondetempico](https://github.com/ondetempico "Compartilhe os melhores locais para se andar de skate") | intermediate | HTML, CSS, JS | :brazil:
+[Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
 
 
 #### Avançado
@@ -124,7 +127,7 @@ Nome | Label | Linguagem | Idioma
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [AngularJs](https://angularjs.org "HTML enhanced for web apps! ") | MVVM | JS | :us:
-[Elementary OS Website](https://github.com/elementary/website "The elementary.io website") | bitesize | C# | :us:
+[Elementary OS Website](https://github.com/elementary/website "The elementary.io website") | bitesize | PHP | :us:
 [Gulp WP Translate](https://github.com/upcesar/gulp-wp-translate "Gulp Task runner for creating POT file (translation template) for WP Themes and Plugins") | Gulp WP Theme and Plugins Translation | JS | :us:
 [IONIC](http://ionicframework.com "Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉") | mobile development | JS | :us:
 
