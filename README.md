@@ -122,7 +122,7 @@ Nome | Label | Linguagem | Idioma
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [AngularJs](https://angularjs.org "HTML enhanced for web apps! ") | MVVM | JS | :us:
-[Elementary OS Website](https://github.com/elementary/website "The elementary.io website") | bitesize | C# | :us:
+[Elementary OS Website](https://github.com/elementary/website "The elementary.io website") | bitesize | PHP | :us:
 [Gulp WP Translate](https://github.com/upcesar/gulp-wp-translate "Gulp Task runner for creating POT file (translation template) for WP Themes and Plugins") | Gulp WP Theme and Plugins Translation | JS | :us:
 [IONIC](http://ionicframework.com "Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉") | mobile development | JS | :us:
 
