@@ -103,6 +103,7 @@ Nome | Label | Linguagem | Idioma
 #### Avançado
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[Code Cracker](https://github.com/code-cracker/code-cracker) | An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. | C# | :us:
 [AZK](https://github.com/azukiapp) | Open Source engine to orchestrate development environments on your local machine. | JS | :brazil:
 [MetalJS](https://github.com/metal/metal.js "Build UI components in a solid, flexible way") | UI-framework | JS | :us:
 
