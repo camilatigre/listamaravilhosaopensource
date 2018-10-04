@@ -106,7 +106,6 @@ Nome | Label | Linguagem | Idioma
 [Code Cracker](https://github.com/code-cracker/code-cracker) | An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. | C# | :us:
 [AZK](https://github.com/azukiapp) | Open Source engine to orchestrate development environments on your local machine. | JS | :brazil:
 [MetalJS](https://github.com/metal/metal.js "Build UI components in a solid, flexible way") | UI-framework | JS | :us:
-
 ---
 
 ### Outros Países
@@ -147,3 +146,6 @@ Nome | Label | Linguagem | Idioma
 [Redux](https://facebook.github.io/react) | Predictable state container | JS | :us:
 [Vue.js](http://vuejs.org "A progressive, incrementally-adoptable JavaScript framework for building UI on the web. ") | UI-framework | JS | :us:
 [Meteor](https://www.meteor.com/ "Meteor, the JavaScript App Platform") | JavaScript app platform | JS | :us:
+[Deepin Calculator](https://github.com/linuxdeepin/deepin-calculator) | Calculator for Linux using C++ with Qt library | C++ | :us:
+[Deepin Screenshot](https://github.com/linuxdeepin/deepin-screenshot) | Screenshot app for Linux using C++ with Qt library | C++ | :us:
+[File Manager](https://github.com/linuxdeepin/dde-file-manager) | File Manager app like Nemo and Nautilus for Linux using C++ with Qt library | C++ | :us:
