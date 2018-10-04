@@ -148,8 +148,3 @@ Nome | Label | Linguagem | Idioma
 [Deepin Calculator](https://github.com/linuxdeepin/deepin-calculator) | Calculator for Linux using C++ with Qt library | C++ | :us:
 [Deepin Screenshot](https://github.com/linuxdeepin/deepin-screenshot) | Screenshot app for Linux using C++ with Qt library | C++ | :us:
 [File Manager](https://github.com/linuxdeepin/dde-file-manager) | File Manager app like Nemo and Nautilus for Linux using C++ with Qt library | C++ | :us:
-
-### Últimos contribuidores
-Nome | GitHub | Data | Idioma
----- | ---- | ---- | ----
-Lucas Naja | [Perfil GitHub](http://github.com/LucasNaja "http://github.com/LucasNaja") | 03/10/2018 | :brazil:
