@@ -52,6 +52,7 @@ Nome | Label | Linguagem | Idioma
 [Konfy](https://github.com/creynders/konfy "Your conference made easy") | nenhuma | JS | :us:
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | nenhuma | JS | :us:
 [Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | nenhuma | JS | :us:
+[Minicurso - JAVA 8](https://github.com/MarcosSarges/MinicursoJAVA8 "Projetos para curso basico de JAVA") | Iniciantes | JAVA | :brazil:
 [Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes) | iniciantes | HTML, CSS, JS | :brazil:
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1 "This is the development of the new version of the Ofir, a simple php framework.") | beginners | PHP | :us:
 [PianoKeyboard](https://github.com/LFeh/piano "🎹 Piano Keyboard developed in HTML, CSS and JavaScript") | nenhuma | JS | :us:
