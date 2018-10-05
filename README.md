@@ -41,6 +41,7 @@ Nome | Label | Linguagem | Idioma
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
 [Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | nenhuma | JS | :us:
+[i-Educar](https://github.com/portabilis/i-educar)| Sistema de Gestão Escolar | PHP | :brazil:
 [Kajado](https://github.com/kajado "CSS Library Open Source") | nenhuma | CSS | :us:
 [Klipim](https://github.com/floripajs/klipim "Choose your dev sticker") | nenhuma | JS | :us:
 [Konfy](https://github.com/guantanamo/konfy "Your conference made easy") | nenhuma | JS | :us:
