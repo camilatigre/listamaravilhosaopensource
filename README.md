@@ -69,7 +69,6 @@ Nome | Label | Linguagem | Idioma
 [ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
-[Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
 
 
 #### Intermediário
@@ -100,6 +99,7 @@ Nome | Label | Linguagem | Idioma
 [Vecchio API](https://github.com/openviglet/vecchio "API Gateway") | intermediate | Java/Javascript | :us:
 [Ondetempico](https://github.com/ondetempico "Compartilhe os melhores locais para se andar de skate") | intermediate | HTML, CSS, JS | :brazil:
 [Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
+[Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
 
 
 #### Avançado
