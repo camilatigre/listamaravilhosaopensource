@@ -42,6 +42,7 @@ Nome | Label | Linguagem | Idioma
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
 [Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil: 
 [Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil: 
+[Enegrecer - Verdade Seja Dita!](https://github.com/Enegrecer/enegrecer-web "O projeto se propõe como uma plataforma para registrar denúncias de crimes raciais") | social | JS | :brazil: 
 [Flute - Development Facilitator](https://github.com/marcosstefani/sucuri "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
@@ -49,6 +50,7 @@ Nome | Label | Linguagem | Idioma
 [Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | nenhuma | JS | :us:
 [i-Educar](https://github.com/portabilis/i-educar)| Sistema de Gestão Escolar | PHP | :brazil:
 [Kajado](https://github.com/kajado "CSS Library Open Source") | nenhuma | CSS | :us:
+[Kamu](https://github.com/ayr-ton/kamu/ "Managing a physical library where you can add books, borrow and return them") | gestão de livros | Python, JS | :brazil:   
 [Klipim](https://github.com/floripajs/klipim "Choose your dev sticker") | nenhuma | JS | :us:
 [Konfy](https://github.com/creynders/konfy "Your conference made easy") | nenhuma | JS | :us:
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | nenhuma | JS | :us:
