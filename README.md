@@ -47,6 +47,7 @@ Nome | Label | Linguagem | Idioma
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
 [Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | nenhuma | JS | :us:
+[i-Educar](https://github.com/portabilis/i-educar)| Sistema de Gestão Escolar | PHP | :brazil:
 [Kajado](https://github.com/kajado "CSS Library Open Source") | nenhuma | CSS | :us:
 [Klipim](https://github.com/floripajs/klipim "Choose your dev sticker") | nenhuma | JS | :us:
 [Konfy](https://github.com/creynders/konfy "Your conference made easy") | nenhuma | JS | :us:
