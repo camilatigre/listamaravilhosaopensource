@@ -72,6 +72,7 @@ Nome | Label | Linguagem | Idioma
 [ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
+[Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
 
 
 #### Intermediário
