@@ -105,6 +105,7 @@ Nome | Label | Linguagem | Idioma
 [Ondetempico](https://github.com/ondetempico "Compartilhe os melhores locais para se andar de skate") | intermediate | HTML, CSS, JS | :brazil:
 [Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
 [Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
+[Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | Go | :brazil:
 
 
 #### Avançado
