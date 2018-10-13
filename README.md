@@ -60,6 +60,7 @@ Nome | Label | Linguagem | Idioma
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1 "This is the development of the new version of the Ofir, a simple php framework.") | beginners | PHP | :us:
 [PianoKeyboard](https://github.com/LFeh/piano "🎹 Piano Keyboard developed in HTML, CSS and JavaScript") | nenhuma | JS | :us:
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br "Projeto para incentivar adoção de animais pessoas que amam pokemons virtuais") | nenhuma | HTML, CSS | :brazil:
+[Polling](https://github.com/robertoduessmann/polling "Projeto para criação de enquetes para votação online") | nenhuma | HTML, CSS | :brazil:
 [PosteMais](https://github.com/frontendbr/poste-mais "Sugestões de temas e assuntos para postagens.") | nenhuma | Markdown | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text "Settings, snippets and good plugins for Sublime Text.") | Tutorial | Markdown | :us:
 [Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/ "Simulador de Renda Fixa Pré e Pós") | nenhuma | HTML, JS, CSS | :brazil:
