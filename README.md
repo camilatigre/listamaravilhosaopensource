@@ -86,6 +86,7 @@ Nome | Label | Linguagem | Idioma
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
 [Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | YO generator | HTML, CSS, JS, Markdown | :us:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
+[GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
 [jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace <image> and <object> embed SVG inline.") | jQuery plugin | JS, SVG | :us:
 [Kibe](https://github.com/woliveiras/kibe "A simple Yeoman Generator to start projects with the most common tasks of my workflow using Gulp.") | intermediate | JS | :us:
