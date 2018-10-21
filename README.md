@@ -75,6 +75,10 @@ Nome | Label | Linguagem | Idioma
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
 [Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
+[Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
+[Awesome Functional Studies](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
+[Hacker Rank Functional Exercises](https://github.com/lambda-study-group/hacker-rank "Resolução de exercícios do Functional Path do Hacker Rank") | beginners | Multilinguagem | :us:
+[Exercism Functional Exercises](https://github.com/lambda-study-group/exercism "Resolução de exercícios de linguagens de programação funcionais do exercism") | beginners | Multilinguagem | :us:
 
 
 #### Intermediário
