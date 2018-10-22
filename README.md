@@ -28,9 +28,11 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
-[Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
 [Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
+[Awesome Functional Studies](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
+[Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
+[Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
@@ -45,19 +47,21 @@ Nome | Label | Linguagem | Idioma
 [Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil: 
 [Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil: 
 [Enegrecer - Verdade Seja Dita!](https://github.com/Enegrecer/enegrecer-web "O projeto se propõe como uma plataforma para registrar denúncias de crimes raciais") | social | JS | :brazil: 
+[Exercism Functional Exercises](https://github.com/lambda-study-group/exercism "Resolução de exercícios de linguagens de programação funcionais do exercism") | beginners | Multilinguagem | :us:
 [Flute - Development Facilitator](https://github.com/marcosstefani/sucuri "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
 [Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | nenhuma | JS | :us:
+[Hacker Rank Functional Exercises](https://github.com/lambda-study-group/hacker-rank "Resolução de exercícios do Functional Path do Hacker Rank") | beginners | Multilinguagem | :us:
 [i-Educar](https://github.com/portabilis/i-educar)| Sistema de Gestão Escolar | PHP | :brazil:
 [Kajado](https://github.com/kajado "CSS Library Open Source") | nenhuma | CSS | :us:
 [Kamu](https://github.com/ayr-ton/kamu/ "Managing a physical library where you can add books, borrow and return them") | gestão de livros | Python, JS | :brazil:   
 [Klipim](https://github.com/floripajs/klipim "Choose your dev sticker") | nenhuma | JS | :us:
 [Konfy](https://github.com/creynders/konfy "Your conference made easy") | nenhuma | JS | :us:
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | nenhuma | JS | :us:
-[Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | nenhuma | JS | :us:
 [Minicurso - JAVA 8](https://github.com/MarcosSarges/MinicursoJAVA8 "Projetos para curso basico de JAVA") | Iniciantes | JAVA | :brazil:
+[Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | nenhuma | JS | :us:
 [Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes) | iniciantes | HTML, CSS, JS | :brazil:
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1 "This is the development of the new version of the Ofir, a simple php framework.") | beginners | PHP | :us:
 [PianoKeyboard](https://github.com/LFeh/piano "🎹 Piano Keyboard developed in HTML, CSS and JavaScript") | nenhuma | JS | :us:
@@ -77,10 +81,6 @@ Nome | Label | Linguagem | Idioma
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
 [Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
-[Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
-[Awesome Functional Studies](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
-[Hacker Rank Functional Exercises](https://github.com/lambda-study-group/hacker-rank "Resolução de exercícios do Functional Path do Hacker Rank") | beginners | Multilinguagem | :us:
-[Exercism Functional Exercises](https://github.com/lambda-study-group/exercism "Resolução de exercícios de linguagens de programação funcionais do exercism") | beginners | Multilinguagem | :us:
 
 
 #### Intermediário
