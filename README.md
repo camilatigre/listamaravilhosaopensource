@@ -68,6 +68,7 @@ Nome | Label | Linguagem | Idioma
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br "Projeto para incentivar adoção de animais pessoas que amam pokemons virtuais") | nenhuma | HTML, CSS | :brazil:
 [Polling](https://github.com/robertoduessmann/polling "Projeto para criação de enquetes para votação online") | nenhuma | HTML, CSS | :brazil:
 [PosteMais](https://github.com/frontendbr/poste-mais "Sugestões de temas e assuntos para postagens.") | nenhuma | Markdown | :brazil:
+[Raspagem de dados para iniciantes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes "Tutorial ensinando Web Crawling atráves da lib Scrapy") | Tutorial | Python | :brazil: 
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text "Settings, snippets and good plugins for Sublime Text.") | Tutorial | Markdown | :us:
 [Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/ "Simulador de Renda Fixa Pré e Pós") | nenhuma | HTML, JS, CSS | :brazil:
 [Sucuri - Template Engine](https://github.com/marcosstefani/sucuri "Sucuri - Template Engine") | Pip | Python, Flask, HTML | :us:
