@@ -160,7 +160,7 @@ Nome | Label | Linguagem | Idioma
 [NW.js](http://nwjs.io "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.") | desktop development | JS | :us:
 [React](https://facebook.github.io/react "A declarative, efficient, and flexible JavaScript library for building user interfaces.") | UI-framework | JS | :us:
 [React Native](https://facebook.github.io/react-native "A framework for building native apps with React.") | mobile development | JS | :us:
-[Redux](https://facebook.github.io/react) | Predictable state container | JS | :us:
+[Redux](https://github.com/reduxjs/redux) | Predictable state container | JS | :us:
 [Vue.js](http://vuejs.org "A progressive, incrementally-adoptable JavaScript framework for building UI on the web. ") | UI-framework | JS | :us:
 [Meteor](https://www.meteor.com/ "Meteor, the JavaScript App Platform") | JavaScript app platform | JS | :us:
 [Deepin Calculator](https://github.com/linuxdeepin/deepin-calculator) | Calculator for Linux using C++ with Qt library | C++ | :us:
