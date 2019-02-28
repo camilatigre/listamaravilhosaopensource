@@ -93,7 +93,6 @@ Nome | Label | Linguagem | Idioma
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
-[Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | YO generator | HTML, CSS, JS, Markdown | :us:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
 [GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
@@ -107,7 +106,7 @@ Nome | Label | Linguagem | Idioma
 [Serenata](https://github.com/datasciencebr/serenata-de-amor "🕵 Artificial Intelligence for social control of public administration") | intermediate | Python | :us:
 [Shiohara CMS](https://github.com/openviglet/shiohara "CMS to Model Content and create site using Javascript") | intermediate | Java/Javascript | :us:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
-[Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, Markdown | :us:
+[Swill Boilerplate Generator](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, CSS, JS, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
 [Turing AI](https://github.com/openviglet/turing "AI Gateway") | intermediate | Java/Javascript | :us:
 [Vecchio API](https://github.com/openviglet/vecchio "API Gateway") | intermediate | Java/Javascript | :us:
