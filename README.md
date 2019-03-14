@@ -29,10 +29,10 @@ Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
 [Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
-[Awesome Functional Studies](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
+[Awesome Funcional Programming Studies](https://github.com/lambda-study-group/awesome-functional-studies "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
 [Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
-[Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
+[Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
@@ -48,7 +48,7 @@ Nome | Label | Linguagem | Idioma
 [Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil: 
 [Enegrecer - Verdade Seja Dita!](https://github.com/Enegrecer/enegrecer-web "O projeto se propõe como uma plataforma para registrar denúncias de crimes raciais") | social | JS | :brazil: 
 [Exercism Functional Exercises](https://github.com/lambda-study-group/exercism "Resolução de exercícios de linguagens de programação funcionais do exercism") | beginners | Multilinguagem | :us:
-[Flute - Development Facilitator](https://github.com/marcosstefani/sucuri "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
+[Flute - Development Facilitator](https://github.com/marcosstefani/flute "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
@@ -94,7 +94,6 @@ Nome | Label | Linguagem | Idioma
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
-[Generator Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | YO generator | HTML, CSS, JS, Markdown | :us:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
 [GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
@@ -108,7 +107,7 @@ Nome | Label | Linguagem | Idioma
 [Serenata](https://github.com/datasciencebr/serenata-de-amor "🕵 Artificial Intelligence for social control of public administration") | intermediate | Python | :us:
 [Shiohara CMS](https://github.com/openviglet/shiohara "CMS to Model Content and create site using Javascript") | intermediate | Java/Javascript | :us:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
-[Swill Boilerplate](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, Markdown | :us:
+[Swill Boilerplate Generator](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, CSS, JS, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
 [Turing AI](https://github.com/openviglet/turing "AI Gateway") | intermediate | Java/Javascript | :us:
 [Vecchio API](https://github.com/openviglet/vecchio "API Gateway") | intermediate | Java/Javascript | :us:
@@ -162,7 +161,7 @@ Nome | Label | Linguagem | Idioma
 [NW.js](http://nwjs.io "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.") | desktop development | JS | :us:
 [React](https://facebook.github.io/react "A declarative, efficient, and flexible JavaScript library for building user interfaces.") | UI-framework | JS | :us:
 [React Native](https://facebook.github.io/react-native "A framework for building native apps with React.") | mobile development | JS | :us:
-[Redux](https://facebook.github.io/react) | Predictable state container | JS | :us:
+[Redux](https://github.com/reduxjs/redux) | Predictable state container | JS | :us:
 [Vue.js](http://vuejs.org "A progressive, incrementally-adoptable JavaScript framework for building UI on the web. ") | UI-framework | JS | :us:
 [Meteor](https://www.meteor.com/ "Meteor, the JavaScript App Platform") | JavaScript app platform | JS | :us:
 [Deepin Calculator](https://github.com/linuxdeepin/deepin-calculator) | Calculator for Linux using C++ with Qt library | C++ | :us:
