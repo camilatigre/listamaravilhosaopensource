@@ -13,16 +13,17 @@ Depois que o seu PR for unido ao projeto, você pode deletar a sua branch.
 **Formato e dicas**
 * Escolha o nível do seu projeto
 * Veja a ordem correta para coloca-lo. A lista está em ordem alfabética e dividida por idioma.
-* [NomeDoProjeto]( Link )¹ | label | linguagem
+* [NomeDoProjeto]( Link "Texto de descrição" )¹ | label | linguagem
 * Quando escolher um label lembre de adicioná-lo nas issues do seu repositório para que outros devs possam encontra-lá.
 
 **Sugestões de Label**
-* Para inciantes: `iniciantes`, `for beginners`
+* Para iniciantes: `iniciantes`, `for beginners`
 * Para intermediários: `intermediário`, `intermediate`
 * Para avançado: `avançado`, `hard`
 * Manter os labels entre 5 e 20 caracters
+* Manter os labels no idioma do seu projeto
 
 
-¹ `[NomeDoProjeto](Link)`
+¹ `[NomeDoProjeto](Link "Texto de descrição")`
 
 #### [<-- Voltar para página principal](README.md)
