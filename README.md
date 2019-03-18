@@ -48,7 +48,7 @@ Nome | Label | Linguagem | Idioma
 [Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil:
 [Enegrecer - Verdade Seja Dita!](https://github.com/Enegrecer/enegrecer-web "O projeto se propõe como uma plataforma para registrar denúncias de crimes raciais") | social | JS | :brazil:
 [Exercism Functional Exercises](https://github.com/lambda-study-group/exercism "Resolução de exercícios de linguagens de programação funcionais do exercism") | beginners | Multilinguagem | :us:
-[ExataBlog - Blog colaborativo](git@github.com:exata0mente/listamaravilhosaopensource.git) | diversas | Markdown, CSS, HTML | :brazil:
+[ExataBlog - Blog colaborativo](https://github.com/exata0mente/exata0mente.github.io) | diversas | Markdown, CSS, HTML | :brazil:
 [Flute - Development Facilitator](https://github.com/marcosstefani/flute "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
