@@ -35,6 +35,7 @@ Nome | Label | Linguagem | Idioma
 [Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
+[Códigos de Ética usados no Brasil](https://github.com/fititnt/codigo-de-etica-brasil "Lista de Códigos de Ética usados no Brasil") | nenhuma | Markdown | :brazil:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
 [CSS Components](https://github.com/hjdesigner/css-components "confira como o CSS é lindo") | nenhuma | CSS | :brazil:
 [DataScience.pizza](https://github.com/leportella/datascience-pizza "Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos") | nenhuma | | :brazil:
