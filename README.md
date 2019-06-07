@@ -79,6 +79,7 @@ Nome | Label | Linguagem | Idioma
 [tEmbO](https://github.com/guisouza/tEmbO "🐘 My own tiny react-like rendering engine.") | nenhuma | JS | :us:
 [Teste Habilidade PHP](https://github.com/LeandroLS/teste-hablidade-php "Um projeto open source para testar seus conhecimentos PHP") | iniciantes | PHP | :brazil:
 [TheJekyllWay](https://github.com/thejekyllway "An project open source for learning Jekyll") | nenhuma | JS | :us:
+[TiaIdentity](https://github.com/hsbtiago/TiaIdentity "Autenticação, Autorização e Simplicidade.") | iniciantes | C# | :brazil:
 [Timetracking](https://github.com/mvmjacobs/timetracking "A simple command line app to track your time.") | help wanted | TS | :us:
 [ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
 [Filosofunk](https://github.com/IgorRozani/filosofunk "Trechos de filosofias do funk.") | beginner | JS | :brazil:
