@@ -6,25 +6,28 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 ---
 
-# Como funciona:
+## Como funciona
+
 1. [Quero alterar/incluir meu/um projeto](meu-projeto.md)
 2. [Quero contribuir com um projeto](contribuindo.md)
 3. [Quero contribuir com a Lista Maravilhosa](contribuindo-lista.md)
 
-**Pesquise nos projetos escolhidos pela Label indicada na tabela**
+### Pesquise nos projetos escolhidos pela Label indicada na tabela
 
 ---
 
+## Escolha seu nível
 
-# Escolha seu nível:
 1. [Iniciante](#iniciante)
 2. [Intermediário](#intermediário)
 3. [Avançado](#avançado)
 
 ---
 
-### Brasil <span>&#x1f1e7;&#x1f1f7;</span>
-#### Iniciante
+### Brasil &#x1f1e7;&#x1f1f7;
+
+## Iniciante
+
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
@@ -58,7 +61,7 @@ Nome | Label | Linguagem | Idioma
 [Hacker Rank Functional Exercises](https://github.com/lambda-study-group/hacker-rank "Resolução de exercícios do Functional Path do Hacker Rank") | beginners | Multilinguagem | :us:
 [i-Educar](https://github.com/portabilis/i-educar)| Sistema de Gestão Escolar | PHP | :brazil:
 [Kajado](https://github.com/kajado "CSS Library Open Source") | nenhuma | CSS | :us:
-[Kamu](https://github.com/ayr-ton/kamu/ "Managing a physical library where you can add books, borrow and return them") | gestão de livros | Python, JS | :brazil:   
+[Kamu](https://github.com/ayr-ton/kamu/ "Managing a physical library where you can add books, borrow and return them") | gestão de livros | Python, JS | :brazil:
 [Klipim](https://github.com/floripajs/klipim "Choose your dev sticker") | nenhuma | JS | :us:
 [Konfy](https://github.com/creynders/konfy "Your conference made easy") | nenhuma | JS | :us:
 [KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | nenhuma | JS | :us:
@@ -87,8 +90,8 @@ Nome | Label | Linguagem | Idioma
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
 [Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
 
+### Intermediário
 
-#### Intermediário
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Awesom Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | JS | :brazil:
@@ -101,7 +104,7 @@ Nome | Label | Linguagem | Idioma
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
 [GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
-[jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace <image> and <object> embed SVG inline.") | jQuery plugin | JS, SVG | :us:
+[jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace image tag and object embed SVG inline.") | jQuery plugin | JS, SVG | :us:
 [Kibe](https://github.com/woliveiras/kibe "A simple Yeoman Generator to start projects with the most common tasks of my workflow using Gulp.") | intermediate | JS | :us:
 [Odin](https://github.com/wpbrasil/odin "Framework and base theme for development with WordPress.") | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel "Small boilerplate to start projects with Grunt and Bower - Front End") | intermediate | JS | :us:
@@ -122,8 +125,8 @@ Nome | Label | Linguagem | Idioma
 [Corcel PHP](https://github.com/corcel/corcel "Use WordPress backend with Laravel or any PHP application") | intermediate | PHP | :us:
 [FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 
+### Avançado
 
-#### Avançado
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Code Cracker](https://github.com/code-cracker/code-cracker) | An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. | C# | :us:
@@ -131,8 +134,10 @@ Nome | Label | Linguagem | Idioma
 [MetalJS](https://github.com/metal/metal.js "Build UI components in a solid, flexible way") | UI-framework | JS | :us:
 ---
 
-### Outros Países
-#### Iniciante
+## Outros Países
+
+### Iniciante
+
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [AVA](https://github.com/avajs/ava/labels/good%20for%20beginner "🚀 Futuristic JavaScript test runner") | good for beginner | JS | :us:
@@ -145,8 +150,8 @@ Nome | Label | Linguagem | Idioma
 [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only "🐨 - PouchDB is a pocket-sized database.") | first timers only | JS | :us:
 [Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner "Shumway is a Flash VM and runtime written in JavaScript") | good-for-beginner | JS | :us:
 
+### Intermediário
 
-#### Intermediário
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [AngularJs](https://angularjs.org "HTML enhanced for web apps! ") | MVVM | JS | :us:
@@ -154,8 +159,8 @@ Nome | Label | Linguagem | Idioma
 [Gulp WP Translate](https://github.com/upcesar/gulp-wp-translate "Gulp Task runner for creating POT file (translation template) for WP Themes and Plugins") | Gulp WP Theme and Plugins Translation | JS | :us:
 [IONIC](http://ionicframework.com "Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉") | mobile development | JS | :us:
 
-
 ### Avançado
+
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Angular](https://angular.io "One framework. Mobile & desktop.") | UI-framework | JS | :us:
