@@ -104,7 +104,7 @@ Nome | Label | Linguagem | Idioma
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
 [GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
-[jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace image tag and object embed SVG inline.") | jQuery plugin | JS, SVG | :us:
+[jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace <image> and <object> embed SVG inline.") | jQuery plugin | JS, SVG | :us:
 [Kibe](https://github.com/woliveiras/kibe "A simple Yeoman Generator to start projects with the most common tasks of my workflow using Gulp.") | intermediate | JS | :us:
 [Odin](https://github.com/wpbrasil/odin "Framework and base theme for development with WordPress.") | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel "Small boilerplate to start projects with Grunt and Bower - Front End") | intermediate | JS | :us:
