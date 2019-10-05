@@ -30,6 +30,7 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools) | Lista, Hacktoberfest | MarkDown | :us:
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
 [Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
 [Awesome Funcional Programming Studies](https://github.com/lambda-study-group/awesome-functional-studies "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
