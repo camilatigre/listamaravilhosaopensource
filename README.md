@@ -32,8 +32,10 @@ Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools) | Lista, Hacktoberfest | MarkDown | :us:
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
+[Awesome Agile](https://github.com/Knowledge21/awesome-agile/ "A curated list of agile contents we like based on the 4 agility domains") | lista | Markdown | :brazil:
 [Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
 [Awesome Funcional Programming Studies](https://github.com/lambda-study-group/awesome-functional-studies "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
+[Awesome Geek Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts/ "A curated list of podcasts we like to listen to.") | beginners | Markdown | :brazil:
 [Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
 [Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
