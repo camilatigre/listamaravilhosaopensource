@@ -1,14 +1,14 @@
 # Quero contribuir com um projeto
 
-**Passo a Passo**
+## Passo a Passo
 
-* [Escolha seu nível](README.md#escolha-seu-nível) 
+* [Escolha seu nível](README.md#escolha-seu-nível)
 * Escolha um projeto
-* Já no projeto procure pelo label indicado na tabela 
+* Já no projeto procure pelo label indicado na tabela
   ![alt text](src/img/exemplo.png "imagem de exemplo")
 * Agora é só escolher!
 
-**Para enviar sua contribuição**
+## Para enviar sua contribuição
 
 Antes de começar verifique e siga as instruções para contribuição do repositório. Caso não possua você pode seguir as instruções abaixo:
 
@@ -19,4 +19,4 @@ Antes de começar verifique e siga as instruções para contribuição do reposi
 5. Abra um Pull Request
 
 
-#### [<-- Voltar para página principal](README.md)
+### [<-- Voltar para página principal](README.md)
