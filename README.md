@@ -30,7 +30,6 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
-[useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools) | Lista, Hacktoberfest | MarkDown | :us:
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
 [Awesome Agile](https://github.com/Knowledge21/awesome-agile/ "A curated list of agile contents we like based on the 4 agility domains") | lista | Markdown | :brazil:
 [Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
@@ -49,6 +48,7 @@ Nome | Label | Linguagem | Idioma
 [DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | :us:
 [Developer Practice](https://github.com/alinebastos/dev-practice) | nenhuma | Markdown | :us:
 [DevTranslate](https://github.com/devtranslate "Project created to help find and translate technology documents to any language.") | translate | Markdown, JSON, etc | :brazil: :us:
+[Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
 [Empresas que oferecem trabalho remoto](https://github.com/lerrua/remote-jobs-brazil "Lista de empresas brasileiras e estrangeiras que oferecem trabalho remoto para devs no Brasil") | lista |  | :brazil: :us:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
 [Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil:
@@ -56,6 +56,7 @@ Nome | Label | Linguagem | Idioma
 [Enegrecer - Verdade Seja Dita!](https://github.com/Enegrecer/enegrecer-web "O projeto se propõe como uma plataforma para registrar denúncias de crimes raciais") | social | JS | :brazil:
 [Exercism Functional Exercises](https://github.com/lambda-study-group/exercism "Resolução de exercícios de linguagens de programação funcionais do exercism") | beginners | Multilinguagem | :us:
 [ExataBlog - Blog colaborativo](https://github.com/exata0mente/exata0mente.github.io) | diversas | Markdown, CSS, HTML | :brazil:
+[Filosofunk](https://github.com/IgorRozani/filosofunk "Trechos de filosofias do funk.") | beginner | JS | :brazil:
 [Flute - Development Facilitator](https://github.com/marcosstefani/flute "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
@@ -87,11 +88,10 @@ Nome | Label | Linguagem | Idioma
 [TheJekyllWay](https://github.com/thejekyllway "An project open source for learning Jekyll") | nenhuma | JS | :us:
 [TiaIdentity](https://github.com/hsbtiago/TiaIdentity "Autenticação, Autorização e Simplicidade.") | iniciantes | C# | :brazil:
 [Timetracking](https://github.com/mvmjacobs/timetracking "A simple command line app to track your time.") | help wanted | TS | :us:
+[useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools) | Lista, Hacktoberfest | MarkDown | :us:
 [ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
-[Filosofunk](https://github.com/IgorRozani/filosofunk "Trechos de filosofias do funk.") | beginner | JS | :brazil:
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
-[Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
 
 ### Intermediário
 
@@ -102,9 +102,11 @@ Nome | Label | Linguagem | Idioma
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
+[Corcel PHP](https://github.com/corcel/corcel "Use WordPress backend with Laravel or any PHP application") | intermediate | PHP | :us:
 [Diario Oficial](https://github.com/okfn-brasil/diario-oficial) | Scraping Brazilian government gazettes | Python, JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
+[FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
 [GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
@@ -126,8 +128,6 @@ Nome | Label | Linguagem | Idioma
 [Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
 [Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
 [Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | Go | :brazil:
-[Corcel PHP](https://github.com/corcel/corcel "Use WordPress backend with Laravel or any PHP application") | intermediate | PHP | :us:
-[FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 
 ### Avançado
 
