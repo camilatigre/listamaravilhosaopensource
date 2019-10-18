@@ -5,7 +5,7 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 *Os idiomas foram determinados pela lingua usada nos readmes dos projetos
 
 ---
-
+# WELLCOME :dancer:
 ## Como funciona
 
 1. [Quero alterar/incluir meu/um projeto](meu-projeto.md)
