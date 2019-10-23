@@ -170,6 +170,7 @@ Nome | Label | Linguagem | Idioma
 [Angular](https://angular.io "One framework. Mobile & desktop.") | UI-framework | JS | :us:
 [Aurelia](http://aurelia.io "A next generation JavaScript client framework that leverages simple conventions to empower your creativity.") | UI-framework | JS | :us:
 [Electron](http://electron.atom.io "Build cross platform desktop apps with JavaScript, HTML, and CSS") | desktop development | JS | :us:
+[Flutter](https://github.com/flutter/flutter "Google's mobile app SDK for crafting high-quality native interfaces on iOS and Android") | mobile development | Dart | :us:
 [Immutable](https://facebook.github.io/immutable-js "Immutable persistent data collections for Javascript which increase efficiency and simplicity.") | Immutable data structures | JS | :us:
 [NativeScript](https://www.nativescript.org "NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android. ") | UI-framework | JS | :us:
 [NW.js](http://nwjs.io "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.") | desktop development | JS | :us:
