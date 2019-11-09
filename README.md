@@ -105,6 +105,7 @@ Nome | Label | Linguagem | Idioma
 [Corcel PHP](https://github.com/corcel/corcel "Use WordPress backend with Laravel or any PHP application") | intermediate | PHP | :us:
 [Diario Oficial](https://github.com/okfn-brasil/diario-oficial) | Scraping Brazilian government gazettes | Python, JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
+[ErrorHandler](https://github.com/tayron/error-handler "Classe que intercepta todos os erros lançados pelo PHP e os transforma em uma exceção") | classe | PHP | :brazil:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
 [FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
@@ -129,6 +130,7 @@ Nome | Label | Linguagem | Idioma
 [Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
 [Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | Go | :brazil:
 [Unform](https://github.com/Rocketseat/unform "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!") | help wanted | TypeScript, JS | :brazil:
+
 
 ### Avançado
 
