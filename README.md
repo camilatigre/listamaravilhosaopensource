@@ -39,6 +39,7 @@ Nome | Label | Linguagem | Idioma
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
 [Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
+[CarreiraPHP](https://github.com/abraphp/CarreiraPHP) "Sugestões de descrição de carreiras e cargos" | beginners | Markdown | :brazil:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
 [Códigos de Ética usados no Brasil](https://github.com/fititnt/codigo-de-etica-brasil "Lista de Códigos de Ética usados no Brasil") | nenhuma | Markdown | :brazil:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
@@ -98,13 +99,13 @@ Nome | Label | Linguagem | Idioma
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Awesom Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | JS | :brazil:
-[Bash Igniter](https://github.com/omarkdev/bash-igniter "Ignite your CodeIgniter") | Facilitator for Code Igniter | PHP | :us:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
 [Corcel PHP](https://github.com/corcel/corcel "Use WordPress backend with Laravel or any PHP application") | intermediate | PHP | :us:
 [Diario Oficial](https://github.com/okfn-brasil/diario-oficial) | Scraping Brazilian government gazettes | Python, JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
+[ErrorHandler](https://github.com/tayron/error-handler "Classe que intercepta todos os erros lançados pelo PHP e os transforma em uma exceção") | classe | PHP | :brazil:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
 [FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
@@ -128,7 +129,8 @@ Nome | Label | Linguagem | Idioma
 [Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
 [Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
 [Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | Go | :brazil:
-[ErrorHandler](https://github.com/tayron/error-handler "Classe que intercepta todos os erros lançados pelo PHP e os transforma em uma exceção") | classe | PHP | :brazil:
+[Unform](https://github.com/Rocketseat/unform "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!") | help wanted | TypeScript, JS | :brazil:
+
 
 ### Avançado
 
@@ -147,6 +149,7 @@ Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [AVA](https://github.com/avajs/ava/labels/good%20for%20beginner "🚀 Futuristic JavaScript test runner") | good for beginner | JS | :us:
 [EmberJs](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors "Ember.js - A JavaScript framework for creating ambitious web applications") | Good for New Contributors | JS | :us:
+[Flutter Developers](https://github.com/lukepighetti/flutter-developers "Flutter Developers may add themselves to this app for the purpose of showcasing their work") | good for beginner | Dart | :us:
 [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only "The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.") | first-timers-only | JS | :us:
 [GRAV](https://getgrav.org/ "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS") | CMS Open Source | PHP | :us:
 [Hoodie](https://github.com/hoodiehq "Very Fast Web Development — Friendly, Offline-First Backend for your apps") | first-timers-only | JS, HTML | :us:
@@ -171,6 +174,7 @@ Nome | Label | Linguagem | Idioma
 [Angular](https://angular.io "One framework. Mobile & desktop.") | UI-framework | JS | :us:
 [Aurelia](http://aurelia.io "A next generation JavaScript client framework that leverages simple conventions to empower your creativity.") | UI-framework | JS | :us:
 [Electron](http://electron.atom.io "Build cross platform desktop apps with JavaScript, HTML, and CSS") | desktop development | JS | :us:
+[Flutter](https://github.com/flutter/flutter "Google's mobile app SDK for crafting high-quality native interfaces on iOS and Android") | mobile development | Dart | :us:
 [Immutable](https://facebook.github.io/immutable-js "Immutable persistent data collections for Javascript which increase efficiency and simplicity.") | Immutable data structures | JS | :us:
 [NativeScript](https://www.nativescript.org "NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android. ") | UI-framework | JS | :us:
 [NW.js](http://nwjs.io "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.") | desktop development | JS | :us:
