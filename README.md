@@ -98,7 +98,7 @@ Nome | Label | Linguagem | Idioma
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
-[Awesom Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | JS | :brazil:
+[Awesome Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | JS | :brazil:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
