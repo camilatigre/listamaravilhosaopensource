@@ -98,6 +98,7 @@ Nome | Label | Linguagem | Idioma
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[Animavita](https://github.com/wendelfreitas/animavita "Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt dog") | Aplicativo Mobile e Server Backend para adoção de animais | JS | :us: :brazil:
 [Awesome Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | JS | :brazil:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
