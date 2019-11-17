@@ -110,6 +110,7 @@ Nome | Label | Linguagem | Idioma
 [FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
 [GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
+[JavaScript Snake Game](https://github.com/LeandroLS/SnakeGame "Jogo da cobrinha feito em JavaScript com HTML Canvas") | intermediate | JavaScript, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
 [jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace <image> and <object> embed SVG inline.") | jQuery plugin | JS, SVG | :us:
 [Kibe](https://github.com/woliveiras/kibe "A simple Yeoman Generator to start projects with the most common tasks of my workflow using Gulp.") | intermediate | JS | :us:
