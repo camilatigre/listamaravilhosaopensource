@@ -39,7 +39,7 @@ Nome | Label | Linguagem | Idioma
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
 [Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
-[CarreiraPHP](https://github.com/abraphp/CarreiraPHP) "Sugestões de descrição de carreiras e cargos" | beginners | Markdown | :brazil:
+[CarreiraPHP](https://github.com/abraphp/CarreiraPHP  "Sugestões de descrição de carreiras e cargos") | beginners | Markdown | :brazil:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
 [Códigos de Ética usados no Brasil](https://github.com/fititnt/codigo-de-etica-brasil "Lista de Códigos de Ética usados no Brasil") | nenhuma | Markdown | :brazil:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
@@ -98,7 +98,8 @@ Nome | Label | Linguagem | Idioma
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
-[Awesom Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | JS | :brazil:
+[Animavita](https://github.com/wendelfreitas/animavita "Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt dog") | Aplicativo Mobile e Server Backend para adoção de animais | JS | :us: :brazil:
+[Awesome Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | JS | :brazil:
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
