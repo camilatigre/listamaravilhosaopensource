@@ -2,7 +2,7 @@
 
 Lista com links de projetos open-source para os níveis: `iniciante`, `intermediário` e `avançado`. Dividido por linguagem, idiomas* e país de origem do projeto.
 
-*Os idiomas foram determinados pela lingua usada nos readmes dos projetos
+*Os idiomas foram determinados pela língua usada nos readmes dos projetos
 
 ---
 
@@ -59,6 +59,7 @@ Nome | Label | Linguagem | Idioma
 [ExataBlog - Blog colaborativo](https://github.com/exata0mente/exata0mente.github.io) | diversas | Markdown, CSS, HTML | :brazil:
 [Filosofunk](https://github.com/IgorRozani/filosofunk "Trechos de filosofias do funk.") | beginner | JS | :brazil:
 [Flute - Development Facilitator](https://github.com/marcosstefani/flute "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
+[Franzininho](https://github.com/Franzininho "Franzininho - Open hardware") | intermediário | Arduino, Wiring,C, C++, Markdown, Kicad | :brazil:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
