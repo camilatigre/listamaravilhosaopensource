@@ -123,6 +123,7 @@ Nome | Label | Linguagem | Idioma
 [School](https://github.com/resultsystems/school "Sistema de gerenciamento para escola em Laravel com VueJS (Não é mais Angular)") | intermediate | PHP | :us:
 [Serenata](https://github.com/datasciencebr/serenata-de-amor "🕵 Artificial Intelligence for social control of public administration") | intermediate | Python | :us:
 [Shiohara CMS](https://github.com/openviglet/shiohara "CMS to Model Content and create site using Javascript") | intermediate | Java/Javascript | :us:
+[Snake Game ](https://github.com/jass2125/SnakeGame "Snake Game built in  C") | intermediate | C | :brazil:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
 [Swill Boilerplate Generator](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, CSS, JS, Markdown | :us:
 [TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
