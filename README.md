@@ -104,6 +104,7 @@ Nome | Label | Linguagem | Idioma
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
+[Comunidades.Tech](https://github.com/universoimpulso/comunidadestech "Espaço de visibilidade e fortalecimento das comunidades de tecnologia.") | intermediate | Javascript, React, Next | :brazil:
 [Corcel PHP](https://github.com/corcel/corcel "Use WordPress backend with Laravel or any PHP application") | intermediate | PHP | :us:
 [Diario Oficial](https://github.com/okfn-brasil/diario-oficial) | Scraping Brazilian government gazettes | Python, JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
