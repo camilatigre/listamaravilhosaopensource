@@ -92,6 +92,7 @@ Nome | Label | Linguagem | Idioma
 [Timetracking](https://github.com/mvmjacobs/timetracking "A simple command line app to track your time.") | help wanted | TS | :us:
 [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools) | Lista, Hacktoberfest | MarkDown | :us:
 [ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
+[Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver "A open source Tab Manager for Safari.") | good for beginner |Swift| :us: , :argentina:
 [VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
 
