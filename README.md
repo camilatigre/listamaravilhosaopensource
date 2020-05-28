@@ -110,6 +110,7 @@ Nome | Label | Linguagem | Idioma
 [Diario Oficial](https://github.com/okfn-brasil/diario-oficial) | Scraping Brazilian government gazettes | Python, JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
 [ErrorHandler](https://github.com/tayron/error-handler "Classe que intercepta todos os erros lançados pelo PHP e os transforma em uma exceção") | classe | PHP | :brazil:
+[English Talking API](https://github.com/barbosamaatheus/english-talking-api   "Uma API Rest construida em Node JS que tem como objetivo fornecer aos usuários a possibilidade de realizar diálogos em inglês, onde as conversas e respostas são registradas e avaliadas pelos próprios usuários.") | API Rest | JS | :us:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
 [FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
