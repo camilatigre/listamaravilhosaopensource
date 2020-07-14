@@ -1,0 +1,15 @@
+body {
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  width: 20%;
+}
+
+.header {
+  display: flex;
+  border-top: 10px solid #bf7eff;
+  padding: 20px;
+}
