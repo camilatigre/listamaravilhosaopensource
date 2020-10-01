@@ -51,6 +51,7 @@ Nome | Label | Linguagem | Idioma
 [DevTranslate](https://github.com/devtranslate "Project created to help find and translate technology documents to any language.") | translate | Markdown, JSON, etc | :brazil: :us:
 [Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
 [Empresas que oferecem trabalho remoto](https://github.com/lerrua/remote-jobs-brazil "Lista de empresas brasileiras e estrangeiras que oferecem trabalho remoto para devs no Brasil") | lista |  | :brazil: :us:
+[Empresas que usam GraphQL no Brasil](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil "Repositório que mostra empresas e projetos que utilizam GraphQL no Brasil") | nenhuma | Markdown | :brazil:
 [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
 [Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil:
 [Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil:
