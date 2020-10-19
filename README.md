@@ -38,6 +38,7 @@ Nome | Label | Linguagem | Idioma
 [Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
 [Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
+[CalcIndexCorporal](https://github.com/adalbertobrant/metabolismobasal "Calculadora de Indice Corporal e Metabolismo Basal") | beginners | CSS, JS, HTML5 | :brazil: :us:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [CarreiraPHP](https://github.com/abraphp/CarreiraPHP  "Sugestões de descrição de carreiras e cargos") | beginners | Markdown | :brazil:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
