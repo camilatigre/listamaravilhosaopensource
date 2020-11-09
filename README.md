@@ -62,6 +62,7 @@ Nome | Label | Linguagem | Idioma
 [Franzininho](https://github.com/Franzininho "Franzininho - Open hardware") | intermediário | Arduino, Wiring,C, C++, Markdown, Kicad | :brazil:
 [FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
+[Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | beginners | Markdown | :brazil:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
 [Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | nenhuma | JS | :us:
 [Hacker Rank Functional Exercises](https://github.com/lambda-study-group/hacker-rank "Resolução de exercícios do Functional Path do Hacker Rank") | beginners | Multilinguagem | :us:
