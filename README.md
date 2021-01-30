@@ -132,10 +132,9 @@ Nome | Label | Linguagem | Idioma
 [Snake Game ](https://github.com/jass2125/SnakeGame "Snake Game built in  C") | intermediate | C | :brazil:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
 [Swill Boilerplate Generator](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, CSS, JS, Markdown | :us:
-[TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
+[TrulyUI](http://truly-ui.com/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
 [Turing AI](https://github.com/openviglet/turing "AI Gateway") | intermediate | Java/Javascript | :us:
 [Vecchio API](https://github.com/openviglet/vecchio "API Gateway") | intermediate | Java/Javascript | :us:
-[Ondetempico](https://github.com/ondetempico "Compartilhe os melhores locais para se andar de skate") | intermediate | HTML, CSS, JS | :brazil:
 [Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
 [Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
 [Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | Go | :brazil:
