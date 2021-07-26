@@ -77,6 +77,7 @@ Nome | Label | Linguagem | Idioma
 [Minicurso - JAVA 8](https://github.com/MarcosSarges/MinicursoJAVA8 "Projetos para curso basico de JAVA") | Iniciantes | JAVA | :brazil:
 [Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | nenhuma | JS | :us:
 [Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes) | iniciantes | HTML, CSS, JS | :brazil:
+[Node Masker](https://github.com/marcelodosreis/node-masker) | iniciantes | TS | :us:
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1 "This is the development of the new version of the Ofir, a simple php framework.") | beginners | PHP | :us:
 [PianoKeyboard](https://github.com/LFeh/piano "🎹 Piano Keyboard developed in HTML, CSS and JavaScript") | nenhuma | JS | :us:
 [PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br "Projeto para incentivar adoção de animais pessoas que amam pokemons virtuais") | nenhuma | HTML, CSS | :brazil:
