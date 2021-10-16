@@ -30,75 +30,67 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
-[Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
-[Awesome Agile](https://github.com/Knowledge21/awesome-agile/ "A curated list of agile contents we like based on the 4 agility domains") | lista | Markdown | :brazil:
+[Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil: :us:
+[Awesome Agile](https://github.com/Knowledge21/awesome-agile/ "A curated list of agile contents we like based on the 4 agility domains") | lista | Markdown | :brazil: :us:
 [Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
 [Awesome Funcional Programming Studies](https://github.com/lambda-study-group/awesome-functional-studies "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
-[Awesome Geek Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts/ "A curated list of podcasts we like to listen to.") | beginners | Markdown | :brazil:
+[Awesome Geek Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts/ "A curated list of podcasts we like to listen to.") | beginners | Markdown | :brazil: :us:
 [Awesome Polybar](https://github.com/TiagoDanin/Awesome-Polybar "List of Polybar Plugin/Script.") | lista | Markdown | :us:
 [Awesome Proton](https://github.com/TiagoDanin/Awesome-Proton "List of games tested with Proton (Tool for Steam Client on Linux).") | lista | Markdown, JSON | :us:
 [Awesome Pesquisa](https://github.com/anabastos/awesome-pesquisa "Lista de ferramentas e fontes para pesquisa acadêmica") | beginners | MarkDown | :brazil:
 [CalcIndexCorporal](https://github.com/adalbertobrant/metabolismobasal "Calculadora de Indice Corporal e Metabolismo Basal") | beginners | CSS, JS, HTML5 | :brazil: :us:
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [CarreiraPHP](https://github.com/abraphp/CarreiraPHP  "Sugestões de descrição de carreiras e cargos") | beginners | Markdown | :brazil:
-[ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
-[Códigos de Ética usados no Brasil](https://github.com/fititnt/codigo-de-etica-brasil "Lista de Códigos de Ética usados no Brasil") | nenhuma | Markdown | :brazil:
-[CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
-[CSS Components](https://github.com/hjdesigner/css-components "confira como o CSS é lindo") | nenhuma | CSS | :brazil:
-[DataScience.pizza](https://github.com/leportella/datascience-pizza "Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos") | nenhuma | | :brazil:
-[Datasus](https://github.com/danicat/datasus "An Interface for the Brazilian Public Healthcare Data Repository (DATASUS) for the R Language") | dados públicos, saúde | R | :us:
-[DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | nenhuma | JS | :us:
-[Developer Practice](https://github.com/alinebastos/dev-practice) | nenhuma | Markdown | :us:
+[Códigos de Ética usados no Brasil](https://github.com/fititnt/codigo-de-etica-brasil "Lista de Códigos de Ética usados no Brasil") | lista | Markdown | :brazil:
+[CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | UI components | CSS | :us:
+[CSS Components](https://github.com/hjdesigner/css-components "confira como o CSS é lindo") | componentes UI | CSS | :brazil:
+[DataScience.pizza](https://github.com/leportella/datascience-pizza "Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos") | lista | Markdown | :brazil:
+[DeimosBoilerplate](https://github.com/ribeiroevandro/deimos-boilerplate) | boilerplate | JS | :us:
+[Developer Practice](https://github.com/alinebastos/dev-practice) | lista | Markdown | :brazil: :us:
 [DevTranslate](https://github.com/devtranslate "Project created to help find and translate technology documents to any language.") | translate | Markdown, JSON, etc | :brazil: :us:
 [Dialetus Service](https://github.com/mvfsillva/dialetus-service "Bringing cultural diversity from each one of us, being able, to deepen in the our Brazilian's daily culture.") | good for beginner | JS | :us:
-[Empresas que oferecem trabalho remoto](https://github.com/lerrua/remote-jobs-brazil "Lista de empresas brasileiras e estrangeiras que oferecem trabalho remoto para devs no Brasil") | lista |  | :brazil: :us:
-[Empresas que usam GraphQL no Brasil](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil "Repositório que mostra empresas e projetos que utilizam GraphQL no Brasil") | nenhuma | Markdown | :brazil:
-[Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | nenhuma | Markdown | :brazil:
-[Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | nenhuma | Markdown | :brazil:
-[Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | Lista | Markdown | :brazil:
-[Enegrecer - Verdade Seja Dita!](https://github.com/Enegrecer/enegrecer-web "O projeto se propõe como uma plataforma para registrar denúncias de crimes raciais") | social | JS | :brazil:
+[Empresas que oferecem trabalho remoto](https://github.com/lerrua/remote-jobs-brazil "Lista de empresas brasileiras e estrangeiras que oferecem trabalho remoto para devs no Brasil") | lista | Markdown | :brazil: :us:
+[Empresas que usam GraphQL no Brasil](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil "Repositório que mostra empresas e projetos que utilizam GraphQL no Brasil") | lista | Markdown | :brazil:
+[Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil "Repositório que mostra empresas e projetos que utilizam React no Brasil") | lista | Markdown | :brazil:
+[Empresas dev Belém-PA](https://github.com/vuejs-norte/empresas-belem "Lista de empresas de desenvolvimento em Belém do PA") | lista | Markdown | :brazil:
+[Empresas de Tecnologia do Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso "Lista de empresas de Tecnologia do Mato Grosso") | lista | Markdown | :brazil:
 [Exercism Functional Exercises](https://github.com/lambda-study-group/exercism "Resolução de exercícios de linguagens de programação funcionais do exercism") | beginners | Multilinguagem | :us:
-[ExataBlog - Blog colaborativo](https://github.com/exata0mente/exata0mente.github.io) | diversas | Markdown, CSS, HTML | :brazil:
-[Filosofunk](https://github.com/IgorRozani/filosofunk "Trechos de filosofias do funk.") | beginner | JS | :brazil:
+[ExataBlog - Blog colaborativo](https://github.com/exata0mente/exata0mente.github.io) | diversas | Markdown, Jekyll, CSS, HTML | :brazil:
+[Filosofunk](https://github.com/IgorRozani/filosofunk "Trechos de filosofias do funk.") | iniciante | JS | :brazil:
 [Flute - Development Facilitator](https://github.com/marcosstefani/flute "Flute - Development Facilitator") | Pip | Python, Flask, HTML | :us:
-[Franzininho](https://github.com/Franzininho "Franzininho - Open hardware") | intermediário | Arduino, Wiring,C, C++, Markdown, Kicad | :brazil:
-[FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | nenhuma | JS | :us:
+[FreeTime](https://github.com/free-time/ "A group of lectures for programmers.") | lectures | Jekyll, JS | :us:
 [Force SSL using Express](https://github.com/brunomacedo/ssl-express-www/ "Force SSL (HTTPS) when HTTP is required using Express (Nodejs). Remove www and slash end on domain.") | Lib | JS, Node | :us:
-[Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | beginners | Markdown | :brazil:
+[Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | lista | Markdown | :brazil:
 [Gerador e ValidadorCPF](https://github.com/tiagoporto/gerador-validador-cpf "Biblioteca JS open-source para gerar, validar e formatar CPF.") | Lib | JS | :brazil:
-[Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | nenhuma | JS | :us:
+[Gorilla](https://github.com/floripajs/gorilla "🐵 Generate vanilla plugin faster") | generator | JS | :us:
 [Hacker Rank Functional Exercises](https://github.com/lambda-study-group/hacker-rank "Resolução de exercícios do Functional Path do Hacker Rank") | beginners | Multilinguagem | :us:
 [i-Educar](https://github.com/portabilis/i-educar)| Sistema de Gestão Escolar | PHP | :brazil:
-[Kajado](https://github.com/kajado "CSS Library Open Source") | nenhuma | CSS | :us:
-[Kamu](https://github.com/ayr-ton/kamu/ "Managing a physical library where you can add books, borrow and return them") | gestão de livros | Python, JS | :brazil:
+[Kamu](https://github.com/ayr-ton/kamu/ "Managing a physical library where you can add books, borrow and return them") | gestão de livros | Python, JS | :brazil: :us:
 [Klipim](https://github.com/floripajs/klipim "Choose your dev sticker") | nenhuma | JS | :us:
-[Konfy](https://github.com/creynders/konfy "Your conference made easy") | nenhuma | JS | :us:
-[KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | nenhuma | JS | :us:
-[Minicurso - JAVA 8](https://github.com/MarcosSarges/MinicursoJAVA8 "Projetos para curso basico de JAVA") | Iniciantes | JAVA | :brazil:
-[Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | nenhuma | JS | :us:
+[KratosBoilerplate](https://github.com/LFeh/kratos-boilerplate "🔥 A simple and fast boilerplate for static projects using Gulp, Pug, Stylus and PostCSS") | boilerplate | JS | :us:
+[Minicurso - JAVA 8](https://github.com/MarcosSarges/MinicursoJAVA8 "Projetos para curso basico de JAVA") | iniciantes | JAVA | :brazil:
+[Mojito](https://github.com/floripajs/mojito "🍸 Generate a project using Gulp (fully ES6) + Sass/Stylus + Livereload") | generator | JS | :us:
 [Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes) | iniciantes | HTML, CSS, JS | :brazil:
 [Node Masker](https://github.com/marcelodosreis/node-masker) | iniciantes | TS | :us:
 [Ofir-Framework](https://github.com/valdiney/Ofir_Framework-0.1 "This is the development of the new version of the Ofir, a simple php framework.") | beginners | PHP | :us:
 [PianoKeyboard](https://github.com/LFeh/piano "🎹 Piano Keyboard developed in HTML, CSS and JavaScript") | nenhuma | JS | :us:
-[PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br "Projeto para incentivar adoção de animais pessoas que amam pokemons virtuais") | nenhuma | HTML, CSS | :brazil:
-[Polling](https://github.com/robertoduessmann/polling "Projeto para criação de enquetes para votação online") | nenhuma | HTML, CSS | :brazil:
-[PosteMais](https://github.com/frontendbr/poste-mais "Sugestões de temas e assuntos para postagens.") | nenhuma | Markdown | :brazil:
-[Raspagem de dados para iniciantes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes "Tutorial ensinando Web Crawling atráves da lib Scrapy") | Tutorial | Python | :brazil:
-[Resoluções e Correções de Exercícios](https://github.com/exata0mente/ResolucoesLivros) | diversas | C,SQL, Conceitual | :brazil:
+[PokemonGoVet](https://github.com/pokemongovet/pokemongo.vet.br "Projeto para incentivar adoção de animais pessoas que amam pokemons virtuais") | adoção | HTML, CSS | :brazil:
+[Polling](https://github.com/robertoduessmann/polling "Projeto para criação de enquetes para votação online") | nenhuma | HTML, CSS | :brazil: :us:
+[PosteMais](https://github.com/frontendbr/poste-mais "Sugestões de temas e assuntos para postagens.") | blogs | Markdown | :brazil:
+[Raspagem de dados para iniciantes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes "Tutorial ensinando Web Crawling atráves da lib Scrapy") | tutorial | Python | :brazil:
+[Resoluções e Correções de Exercícios](https://github.com/exata0mente/ResolucoesLivros) | diversas | C, SQL, Conceitual | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text "Settings, snippets and good plugins for Sublime Text.") | Tutorial | Markdown | :us:
-[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/ "Simulador de Renda Fixa Pré e Pós") | nenhuma | HTML, JS, CSS | :brazil:
 [Sucuri - Template Engine](https://github.com/marcosstefani/sucuri "Sucuri - Template Engine") | Pip | Python, Flask, HTML | :us:
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos "🎵 A collection of logos and symbols from bands, musicians and related in SVG.") | SVG logos | SVG, CSS | :us:
-[tEmbO](https://github.com/guisouza/tEmbO "🐘 My own tiny react-like rendering engine.") | nenhuma | JS | :us:
+[tEmbO](https://github.com/guisouza/tEmbO "🐘 My own tiny react-like rendering engine.") | rendering engine | JS | :us:
 [Teste Habilidade PHP](https://github.com/LeandroLS/teste-hablidade-php "Um projeto open source para testar seus conhecimentos PHP") | iniciantes | PHP | :brazil:
-[TheJekyllWay](https://github.com/thejekyllway "An project open source for learning Jekyll") | nenhuma | JS | :us:
+[TheJekyllWay](https://github.com/thejekyllway "An project open source for learning Jekyll") | blog | JS | :us:
 [TiaIdentity](https://github.com/hsbtiago/TiaIdentity "Autenticação, Autorização e Simplicidade.") | iniciantes | C# | :brazil:
-[Timetracking](https://github.com/mvmjacobs/timetracking "A simple command line app to track your time.") | help wanted | TS | :us:
-[Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver "A open source Tab Manager for Safari.") | good for beginner |Swift| :us:  :argentina:
-[useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools) | Lista, Hacktoberfest | MarkDown | :us:
-[ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | nenhuma | JS | :us:
-[VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | good for beginner | VimL | :us:
-[VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | JS | :brazil:
+[Timetracking](https://github.com/mvmjacobs/timetracking "A simple command line app to track your time.") | tracker | NodeJS, TS | :us:
+[useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools) | list, hacktoberfest | Markdown | :us:
+[ValidJs](https://github.com/dleitee/valid.js "A library for data validation.") | validation | JS | :us:
+[VIM Para Front-Ends](https://github.com/VictorVoid/vim-frontend "⭐️ Vim Frontend is a Vim configured for Front-end Developers.") | tutorial | VimL | :us:
+[VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | tutorial | JS | :brazil:
 
 ### Intermediário
 
@@ -109,19 +101,24 @@ Nome | Label | Linguagem | Idioma
 [Borgert CMS](https://github.com/odirleiborgert/borgert-cms "Borgert is a CMS Open Source created with Laravel Framework 5.5") | CMS Open Source created with Laravel | PHP | :us:
 [Bottery](https://github.com/rougeth/bottery "A bot framework with batteries included") | Bot framework | Python | :brazil:
 [Checkforce.js](https://github.com/dejaneves/checkforce.js "Check password force") | intermediate | JS | :us:
+[ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | intermediate | JS | :us:
 [Comunidades.Tech](https://github.com/universoimpulso/comunidadestech "Espaço de visibilidade e fortalecimento das comunidades de tecnologia.") | intermediate | Javascript, React, Next | :brazil:
 [Corcel PHP](https://github.com/corcel/corcel "Use WordPress backend with Laravel or any PHP application") | intermediate | PHP | :us:
+[Datasus](https://github.com/danicat/datasus "An Interface for the Brazilian Public Healthcare Data Repository (DATASUS) for the R Language") | public data, health | R | :us:
 [Diario Oficial](https://github.com/okfn-brasil/diario-oficial) | Scraping Brazilian government gazettes | Python, JS | :us:
 [Docz](https://www.docz.site/ "It's never been easier to document your things!") | intermediate | HTML, Markdown, JS | :brazil:
 [ErrorHandler](https://github.com/tayron/error-handler "Classe que intercepta todos os erros lançados pelo PHP e os transforma em uma exceção") | classe | PHP | :brazil:
+[Enegrecer - Verdade Seja Dita!](https://github.com/Enegrecer/enegrecer-web "O projeto se propõe como uma plataforma para registrar denúncias de crimes raciais") | social | React, JS | :brazil:
 [English Talking API](https://github.com/barbosamaatheus/english-talking-api   "Uma API Rest construida em Node JS que tem como objetivo fornecer aos usuários a possibilidade de realizar diálogos em inglês, onde as conversas e respostas são registradas e avaliadas pelos próprios usuários.") | API Rest | JS | :us:
 [Flasgger](https://github.com/rochacbruno/flasgger "API Documentation for Flask") | Flask - Intermediate | Python | :us:
+[Franzininho](https://github.com/Franzininho "Franzininho - Open hardware") | intermediário | Arduino, Wiring,C, C++, Markdown, Kicad | :brazil:
 [FreeSoccer](https://github.com/andrelmlins/freesoccer "Free API with results from national football competitions") | intermediate | JS | :brazil:
 [Git Project Manager](https://github.com/felipecaputo/git-project-manager "A simple but powerfull project manager for VSCode") | good first issue, help wanted | JS | :us:
 [GitHub Dashboard](https://github.com/hjdesigner/github-dashboard "Confira de uma forma diferente um resumo do meu github") | intermediate | JS, CSS, HTML | :brazil:
 [JavaScript Snake Game](https://github.com/LeandroLS/SnakeGame "Jogo da cobrinha feito em JavaScript com HTML Canvas") | intermediate | JavaScript, HTML | :brazil:
 [jQuery logo downloadtip](https://github.com/tiagoporto/jquery-logo-downloadtip "Simple plugin to allow users to download multiple logotype image types. ") | jQuery plugin | JS | :us:
 [jQuery SVG to Inline](https://github.com/tiagoporto/jquery-svg-to-inline "A jQuery plugin to replace <image> and <object> embed SVG inline.") | jQuery plugin | JS, SVG | :us:
+[Konfy](https://github.com/creynders/konfy "Your conference made easy") | configurations | JS | :us:
 [Kibe](https://github.com/woliveiras/kibe "A simple Yeoman Generator to start projects with the most common tasks of my workflow using Gulp.") | intermediate | JS | :us:
 [Odin](https://github.com/wpbrasil/odin "Framework and base theme for development with WordPress.") | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel "Small boilerplate to start projects with Grunt and Bower - Front End") | intermediate | JS | :us:
@@ -133,13 +130,12 @@ Nome | Label | Linguagem | Idioma
 [Snake Game ](https://github.com/jass2125/SnakeGame "Snake Game built in  C") | intermediate | C | :brazil:
 [Speakerfight](https://github.com/luanfonceca/speakerfight "The Easier way to choose the best talks.") | intermediate | Python | :us:
 [Swill Boilerplate Generator](https://github.com/tiagoporto/generator-swill-boilerplate "🍺 The front-end Boilerplate that you need to start easily customizable multi-device development.") | Swill Boilerplate Docs | HTML, CSS, JS, Markdown | :us:
-[TrulyUI](http://truly-ui.tk/ "WebComponents for Desktop Applications") | WebComponents | JS | :us:
 [Turing AI](https://github.com/openviglet/turing "AI Gateway") | intermediate | Java/Javascript | :us:
 [Vecchio API](https://github.com/openviglet/vecchio "API Gateway") | intermediate | Java/Javascript | :us:
-[Ondetempico](https://github.com/ondetempico "Compartilhe os melhores locais para se andar de skate") | intermediate | HTML, CSS, JS | :brazil:
-[Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | Vue.js UI component library | Vue.js, JS | :us:
+[Osiris UI](https://github.com/osiris-ui/osiris "Biblioteca de componentes em Vue.js") | UI components | Vue.js, JS | :us:
 [Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | JS | :us:
 [Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | Go | :brazil:
+[Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver "A open source Tab Manager for Safari.") | intermediate | Swift | :us:  :argentina:
 [Unform](https://github.com/Rocketseat/unform "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!") | help wanted | TypeScript, JS | :brazil:
 
 
