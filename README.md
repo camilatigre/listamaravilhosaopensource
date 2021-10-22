@@ -31,6 +31,7 @@ Lista com links de projetos open-source para os níveis: `iniciante`, `intermedi
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | CSS, JS | :brazil:
+[Auxilium Humanitarium Documentōrum](https://github.com/HXL-CPLP/Auxilium-Humanitarium-API "Documentação multilíngue de APIs humanitárias (iniciativa da comunidade)") | nenhuma | CSS, Excel, HTML, YAML | :united_nations: <sup title="Projeto multilingual voluntário; todos os idiomas são bem vindos!">(*)</sup>
 [Awesome Agile](https://github.com/Knowledge21/awesome-agile/ "A curated list of agile contents we like based on the 4 agility domains") | lista | Markdown | :brazil:
 [Awesome Dashboards](https://github.com/omarkdev/awesome-dashboards "List of dashboards free to use") | lista | Markdown | :us:
 [Awesome Funcional Programming Studies](https://github.com/lambda-study-group/awesome-functional-studies "Lista de fontes de estudo sobre o paradigma de programação funcional") | beginners | MarkDown | :brazil:
