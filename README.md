@@ -86,7 +86,6 @@ Nome | Label | Linguagem | Idioma
 [Raspagem de dados para iniciantes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes "Tutorial ensinando Web Crawling atráves da lib Scrapy") | Tutorial | Python | :brazil:
 [Resoluções e Correções de Exercícios](https://github.com/exata0mente/ResolucoesLivros) | diversas | C,SQL, Conceitual | :brazil:
 [Setting up sublime text](https://github.com/tiagoporto/setting-up-sublime-text "Settings, snippets and good plugins for Sublime Text.") | Tutorial | Markdown | :us:
-[Simulador de Renda Fixa Easynvest](https://github.com/easynvest/simulador-rendafixa/ "Simulador de Renda Fixa Pré e Pós") | nenhuma | HTML, JS, CSS | :brazil:
 [Sucuri - Template Engine](https://github.com/marcosstefani/sucuri "Sucuri - Template Engine") | Pip | Python, Flask, HTML | :us:
 [SVG Music Logos](https://github.com/tiagoporto/svg-music-logos "🎵 A collection of logos and symbols from bands, musicians and related in SVG.") | SVG logos | SVG, CSS | :us:
 [tEmbO](https://github.com/guisouza/tEmbO "🐘 My own tiny react-like rendering engine.") | nenhuma | JS | :us:
