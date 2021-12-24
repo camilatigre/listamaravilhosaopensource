@@ -126,6 +126,7 @@ Nome | Label | Linguagem | Idioma
 [Kibe](https://github.com/woliveiras/kibe "A simple Yeoman Generator to start projects with the most common tasks of my workflow using Gulp.") | intermediate | JS | :us:
 [Odin](https://github.com/wpbrasil/odin "Framework and base theme for development with WordPress.") | Framework and Base Theme for WordPress. | PHP, HTML, CSS, JS | :us:
 [Pastel](https://github.com/woliveiras/pastel "Small boilerplate to start projects with Grunt and Bower - Front End") | intermediate | JS | :us:
+[Rick Portal Gun](https://github.com/LeandroLS/rick-portal-gun "A web page that consumes Rick Morty API") | intermediate | JS and React | :us:
 [rows](https://github.com/turicas/rows "A common, beautiful interface to tabular data, no matter the format") | intermediate | Python | :us:
 [RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Library | JS | :brazil:
 [School](https://github.com/resultsystems/school "Sistema de gerenciamento para escola em Laravel com VueJS (Não é mais Angular)") | intermediate | PHP | :us:
