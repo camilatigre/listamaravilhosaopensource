@@ -42,6 +42,7 @@ Nome | Label | Linguagem | Idioma
 [Caravel](https://github.com/caravel-tool/caravel "Deploy your apps in production, effortlessly.") | nenhuma | JS | :us:
 [CarreiraPHP](https://github.com/abraphp/CarreiraPHP  "Sugestões de descrição de carreiras e cargos") | beginners | Markdown | :brazil:
 [ChessJs](https://github.com/LFeh/chess "A modern and light chess game developed with HTML, CSS and Javascript.") | nenhuma | JS | :us:
+[Código Limpo Anotações](https://github.com/LeandroLS/CodigoLimpoAnotacoes "Anotações de como escrever um código melhor") | anotações | Markdown | :brazil:
 [Códigos de Ética usados no Brasil](https://github.com/fititnt/codigo-de-etica-brasil "Lista de Códigos de Ética usados no Brasil") | nenhuma | Markdown | :brazil:
 [CSS Components](https://github.com/LFeh/css-components "☕️ A set of common UI Components using the power of CSS and without Javascript.") | nenhuma | CSS | :us:
 [CSS Components](https://github.com/hjdesigner/css-components "confira como o CSS é lindo") | nenhuma | CSS | :brazil:
