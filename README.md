@@ -131,6 +131,7 @@ Nome | Label | Linguagem | Idioma
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[4Devs](https://github.com/Theryston/4devs "Generate and validade data") | NPM library | ![Typescript](https://img.shields.io/badge/Typescript-%23666666?style=flat&logo=typescript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat) ![pt-BR](https://img.shields.io/badge/pt--BR-%23009c3b?style=flat)
 [AngularJs](https://angularjs.org "HTML enhanced for web apps! ") | MVVM | ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
 [Animavita](https://github.com/wendelfreitas/animavita "Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt dog") | Aplicativo Mobile e Server Backend para adoção de animais | ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat) ![pt-BR](https://img.shields.io/badge/pt--BR-%23009c3b?style=flat)
 [Awesome Projects](https://github.com/DevsOnBeer/awesome-projects "Projeto do DevsOnBeer de Lista de Projetos OpenSource") | Lista de Projetos OpenSource | ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![pt-BR](https://img.shields.io/badge/pt--BR-%23009c3b?style=flat)
