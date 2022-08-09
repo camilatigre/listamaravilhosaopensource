@@ -175,6 +175,7 @@ Nome | Label | Linguagem | Idioma
 [Sling Web Framework](https://github.com/stone-payments/sling-web-framework "A financial framework for create webcomponents") | help wanted | ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
 [Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | ![GO](https://img.shields.io/badge/GO-%23FFFFFF?style=flat&logo=go) | ![pt-BR](https://img.shields.io/badge/pt--BR-%23009c3b?style=flat)
 [Unform](https://github.com/Rocketseat/unform "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!") | help wanted | ![Typescript](https://img.shields.io/badge/Typescript-%23FFFFFF?style=flat&logo=typescript) ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![pt-BR](https://img.shields.io/badge/pt--BR-%23009c3b?style=flat)
+[Tiny Blocks](https://github.com/tiny-blocks "Implementations for Domain Driven Design building blocks in PHP.") | PHP library | ![PHP](https://img.shields.io/badge/PHP-%2322242F?style=flat&logo=php)  | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
 
 <br />
 <br />
