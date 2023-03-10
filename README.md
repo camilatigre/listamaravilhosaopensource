@@ -205,6 +205,7 @@ Nome | Label | Linguagem | Idioma
 [React Native](https://facebook.github.io/react-native "A framework for building native apps with React.") | mobile development | ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
 [Redux](https://github.com/reduxjs/redux) | Predictable state container | ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
 [Vue.js](http://vuejs.org "A progressive, incrementally-adoptable JavaScript framework for building UI on the web. ") | UI-framework | ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
+[E-commerce](https://github.com/vituhonorato/outfit-store) | Web Developement responsive | ![Typescript](https://img.shields.io/badge/Typescript-%23666666?style=flat&logo=typescript) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
 
 <br />
 
