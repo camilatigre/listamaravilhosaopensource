@@ -15,10 +15,12 @@
        Lista com links de projetos open-source. Dividido por linguagem, idiomas e país de origem do projeto.
     </i></sub>
   <br/>
-	<a href="#">Iniciante</a>&nbsp;&nbsp;&nbsp;
-	<a href="#">Intermediário</a>&nbsp;&nbsp;&nbsp;
-	<a href="#">Avançado</a>&nbsp;&nbsp;&nbsp;
 </p>
+<div align="center">
+
+  [Iniciante](#iniciante)&nbsp;&nbsp;&nbsp;[Intermediário](#intermediário)&nbsp;&nbsp;&nbsp;[Avançado](#avançado)
+  
+</div>
 
 <br/>
 
