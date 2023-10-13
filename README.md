@@ -45,6 +45,7 @@
 
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
+[Aurora: windows otimizer™](https://github.com/azurejoga/Aurora-otimisador-para-windows- "um otimizador de windows incrível para deixar seu pc mais rápido") | ![Python](https://img.shields.io/badge/Python-%23F7C400?style=flat&logo=python) | ![pt-BR](https://img.shields.io/badge/pt--BR-%23009c3b?style=flat)
 [Accesibility Buttons](https://github.com/tiagoporto/accessibility-buttons "Buttons to add/remove contrast and increase/decrease font size.") | lib | ![CSS](https://img.shields.io/badge/CSS-%230069BA?style=flat&logo=css3) ![Javascript](https://img.shields.io/badge/Javascript-%23666666?style=flat&logo=javascript) | ![pt-BR](https://img.shields.io/badge/pt--BR-%23009c3b?style=flat)
 [API Client boilerplate Rust](https://github.com/GuilhermeStracini/apiclient-boilerplate-rs) | good first issue, help wanted |![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
 [API Client boilerplate .NET](https://github.com/GuilhermeStracini/apiclient-boilerplate-dotnet) | good first issue, help wanted |![C#](https://img.shields.io/badge/C%23-%23280068?style=flat&logo=csharp) | ![en-US](https://img.shields.io/badge/en--US-%23FFFFFF?style=flat)
