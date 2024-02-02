@@ -133,6 +133,7 @@ Nome | Label | Linguagem | Idioma
 [VIM Para Noobs](https://github.com/woliveiras/vimparanoobs "A fast book to learn VIM. :D") | good for beginner | ![Javascript](https://img.shields.io/badge/Javascript-666666?style=flat&logo=javascript) | ![pt-BR](https://img.shields.io/badge/pt--BR-009c3b?style=flat)
 [brutils-python](https://github.com/brazilian-utils/brutils-python "Utils library for specific Brazilian businesses 🇧🇷 ") | good for beginner | ![python](https://img.shields.io/badge/Python-F7C400?style=flat&logo=python) | ![pt-BR](https://img.shields.io/badge/pt--BR-009c3b?style=flat)
 [TinyLink](https://github.com/rodriguesxxx/TinyLink) | good for backend beginners | ![Java](https://img.shields.io/badge/Java-E30E11?style=flat&logo=oracle) | ![en-US](https://img.shields.io/badge/en--US-FFFFFF?style=flat)
+[Kotlin4Noobs](https://github.com/gustavofreze/kotlin4noobs) | Tutorial | ![Markdown](https://img.shields.io/badge/Markdown-22242F?style=flat&logo=markdown) | ![pt-BR](https://img.shields.io/badge/pt--BR-009c3b?style=flat)
 <br />
 <br />
 
@@ -185,7 +186,7 @@ Nome | Label | Linguagem | Idioma
 [Weather API](https://github.com/robertoduessmann/weather-api "Uma API RESTful para consulta de temperatura e clima") | help wanted | ![GO](https://img.shields.io/badge/GO-FFFFFF?style=flat&logo=go) | ![pt-BR](https://img.shields.io/badge/pt--BR-009c3b?style=flat)
 [Unform](https://github.com/Rocketseat/unform "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!") | help wanted | ![Typescript](https://img.shields.io/badge/Typescript-FFFFFF?style=flat&logo=typescript) ![Javascript](https://img.shields.io/badge/Javascript-666666?style=flat&logo=javascript) | ![pt-BR](https://img.shields.io/badge/pt--BR-009c3b?style=flat)
 [Tiny Blocks](https://github.com/tiny-blocks "Implementations for Domain Driven Design building blocks in PHP.") | PHP library | ![PHP](https://img.shields.io/badge/PHP-22242F?style=flat&logo=php)  | ![en-US](https://img.shields.io/badge/en--US-FFFFFF?style=flat)
-
+[Auto assign](https://github.com/gustavofreze/auto-assign) | GitHub action | ![Python](https://img.shields.io/badge/Python-F7C400?style=flat&logo=python) | ![en-US](https://img.shields.io/badge/en--US-FFFFFF?style=flat)
 <br />
 <br />
 
