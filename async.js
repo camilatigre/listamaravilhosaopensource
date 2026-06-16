@@ -16,5 +16,4 @@ async function display() {
 	let data = await asynchronous_operational_method();
 	console.log(data);
 }
-
 display();
