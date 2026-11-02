@@ -40,19 +40,51 @@
       padding: 3px 8px;
       border-radius: 10px;
     }
+  .busca-container { position: relative; display: flex; align-items: center; background: #fff; border: 1px solid #ccc; border-radius: 25px; padding: 5px 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+    .busca-container input { flex: 1; border: none; padding: 10px; font-size: 16px; outline: none; background: transparent; }
+    .btn-funil { background: none; border: none; cursor: pointer; padding: 5px 10px; display: flex; align-items: center; justify-content: center; color: #555; transition: color 0.2s; }
+    .btn-funil:hover { color: #000; }
+    .painel-filtros { display: none; position: absolute; top: 110%; right: 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 10; min-width: 250px; }
+    .painel-filtros.ativo { display: block; }
+    .grupo-filtro { margin-bottom: 15px; display: flex; flex-direction: column; }
+    .grupo-filtro:last-child { margin-bottom: 0; }
+    .grupo-filtro label { font-weight: bold; font-size: 14px; margin-bottom: 5px; color: #333; }
+    .grupo-filtro select { padding: 8px; border-radius: 5px; border: 1px solid #ccc; font-size: 14px; outline: none; }
   </style>
 </head>
 <body>
   <h1>Lista Maravilhosa de Projetos Open-Source</h1>
 
-  <div class="filtros">
-    <input type="text" id="busca" placeholder="Buscar projeto...">
-    <select id="nivel">
-      <option value="">Todos os níveis</option>
-      <option value="Iniciante">Iniciante</option>
-      <option value="Intermediário">Intermediário</option>
-      <option value="Avançado">Avançado</option>
-    </select>
+  <!-- Contêiner da Busca com Ícone de Funil -->
+  <div class="busca-container">
+    <input type="text" id="busca" placeholder="Buscar projeto ou palavra-chave...">
+    
+    <button class="btn-funil" id="btnToggleFiltros" title="Filtros e Ordenação">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+      </svg>
+    </button>
+
+    <!-- Painel flutuante de ordenação e filtros -->
+    <div class="painel-filtros" id="painelFiltros">
+      <div class="grupo-filtro">
+        <label for="ordenacao">Ordenar por:</label>
+        <select id="ordenacao">
+          <option value="az">A-Z (Ordem Alfabética)</option>
+          <option value="za">Z-A</option>
+        </select>
+      </div>
+
+      <div class="grupo-filtro">
+        <label for="nivel">Filtrar por Nível:</label>
+        <select id="nivel">
+          <option value="">Todos os níveis</option>
+          <option value="Iniciante">Iniciante</option>
+          <option value="Intermediário">Intermediário</option>
+          <option value="Avançado">Avançado</option>
+        </select>
+      </div>
+    </div>
   </div>
 
   <p id="contador"></p>
@@ -63,6 +95,14 @@
     let todosProjetos = [];
     
     let quantidadeVisivel = 9;
+    const btnToggleFiltros = document.getElementById('btnToggleFiltros');
+    const painelFiltros = document.getElementById('painelFiltros');
+
+    btnToggleFiltros.addEventListener('click', () => { painelFiltros.classList.toggle('ativo'); });
+
+    document.addEventListener('click', (event) => {
+      if (!event.target.closest('.busca-container')) { painelFiltros.classList.remove('ativo'); }
+    });
 
     // Evita que textos vindos da lista quebrem o HTML
     function escapar(texto) {
@@ -74,15 +114,22 @@
     function mostrarProjetos() {
       const busca = document.getElementById('busca').value.toLowerCase();
       const nivel = document.getElementById('nivel').value;
+      const ordenacao = document.getElementById('ordenacao').value;
 
-      const filtrados = todosProjetos.filter(p =>
+      let filtrados = todosProjetos.filter(p =>
         p.nome.toLowerCase().includes(busca) &&
         (nivel === '' || p.nivel === nivel)
       );
 
-      document.getElementById('contador').textContent =
-        filtrados.length + ' projeto(s) encontrado(s)';
-        const projetosVisiveis = filtrados.slice(0, quantidadeVisivel);
+      // Regra de ordem A-Z
+      filtrados.sort((a, b) => {
+        if (ordenacao === 'az') return a.nome.localeCompare(b.nome);
+        if (ordenacao === 'za') return b.nome.localeCompare(a.nome);
+        return 0;
+      });
+
+      document.getElementById('contador').textContent = filtrados.length + ' projeto(s) encontrado(s)';
+      const projetosVisiveis = filtrados.slice(0, quantidadeVisivel);
       
 
       document.getElementById('lista').innerHTML = projetosVisiveis.map(p => `
@@ -121,6 +168,10 @@
       mostrarProjetos(); 
     });
     document.getElementById('nivel').addEventListener('change', () => {
+      quantidadeVisivel = 9;
+      mostrarProjetos(); 
+    });
+    document.getElementById('ordenacao').addEventListener('change', () => {
       quantidadeVisivel = 9;
       mostrarProjetos(); 
     });
