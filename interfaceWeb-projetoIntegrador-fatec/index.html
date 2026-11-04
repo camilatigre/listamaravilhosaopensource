@@ -1,3 +1,5 @@
+<!-- AINDA ESTAMOS EM PRODUÇÃO, VISUAL APENAS DE TESTES -->
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -11,6 +13,7 @@
 </head>
 <body>
 
+  <div class="wrap">
   <!-- ===== INÍCIO: topo com logo ===== -->
   <header class="topo">
     <h1 class="sr-only">Lista Maravilhosa de Projetos Open-Source</h1>
@@ -53,29 +56,26 @@
       </div>
     </div>
   </div>
+  </div><!-- fim .wrap (topo e busca) -->
 
   <!-- ===== INÍCIO: carrossel de categorias ===== -->
   <section class="categorias" aria-label="Categorias de linguagens">
-    <div class="cat-cab">
-      <h2><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg> Categorias</h2>
-      <button type="button" class="btn-ver" id="btnVerTodos" aria-expanded="false">Ver todos →</button>
+    <div class="wrap">
+      <div class="cat-cab">
+        <h2><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg> Categorias</h2>
+        <button type="button" class="btn-ver" id="btnVerTodos" aria-expanded="false">Ver todos →</button>
+      </div>
+      <div class="carrossel-wrap">
+        <button type="button" class="seta esq" id="setaEsq" aria-label="Linguagens anteriores">‹</button>
+        <div class="carrossel" id="carrossel"></div>
+        <button type="button" class="seta dir" id="setaDir" aria-label="Próximas linguagens">›</button>
+      </div>
+      <div class="todas" id="todas" hidden></div>
     </div>
-    <button type="button" class="seta esq" id="setaEsq" aria-label="Linguagens anteriores">‹</button>
-    <div class="carrossel" id="carrossel"></div>
-    <button type="button" class="seta dir" id="setaDir" aria-label="Próximas linguagens">›</button>
-    <div class="todas" id="todas" hidden></div>
-    <div class="lm-container">
-    <div class="lm-categorias-topo">
-      <!-- Título e botão "Ver todos" -->
-    </div>
-    <div class="lm-carrossel">
-      <!-- Setas e os cards (botões .lm-opcao) do carrossel -->
-    </div>
-  </div>
-  
   </section>
   <!-- ===== FIM: carrossel de categorias ===== -->
 
+  <div class="wrap pagina">
   <!-- ===== INÍCIO: cabeçalho e filtros dos projetos ===== -->
   <div class="cab-projetos" id="projetos">
     <h2>&lt;/&gt; Projetos</h2>
@@ -102,6 +102,7 @@
 
   <p id="contador"></p>
   <div id="lista">Carregando projetos...</div>
+  </div><!-- fim .wrap (projetos) -->
 
   <script src="projetos.js"></script>
   <script>
@@ -289,7 +290,7 @@
     }
 
     // Carrossel: setas e "Ver todos"
-    const passo = () => { const c = $('carrossel').querySelector('.lang-card'); return c ? c.offsetWidth + 18 : 300; };
+    const passo = () => { const c = $('carrossel').querySelector('.lang-card'); return c ? c.offsetWidth + (parseFloat(getComputedStyle($('carrossel')).columnGap) || 15) : 300; };
     function atualizarSetas() {
       const car = $('carrossel');
       $('setaEsq').disabled = car.scrollLeft <= 2;
