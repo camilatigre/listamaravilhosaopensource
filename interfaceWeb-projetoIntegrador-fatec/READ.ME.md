@@ -2,7 +2,7 @@
 
 **Integrantes/Contribuidores do Projeto:**
 
-- Ana Clara
+- [Ana Clara](https://github.com/AnaBarbosa18)
 - [Franciele](https://github.com/francielenascimento-hub)
 - [Jordana](https://github.com/m0biius2)
 - [Samuel](https://github.com/SamuelRod99)
