@@ -1,0 +1,330 @@
+<!-- AINDA ESTAMOS EM PRODUÇÃO, VISUAL APENAS DE TESTES -->
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista Maravilhosa de Projetos Open-Source</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+  <div class="wrap">
+  <!-- ===== INÍCIO: topo com logo ===== -->
+  <header class="topo">
+    <h1 class="sr-only">Lista Maravilhosa de Projetos Open-Source</h1>
+    <img src="logo-temp.png" alt="Lista Maravilhosa" onerror="this.hidden=true;this.nextElementSibling.hidden=false">
+    <span class="logo-texto" hidden>Lista Maravilhosa</span>
+    <p>Lista com links de projetos open-source</p>
+  </header>
+  <h2 class="titulo-pesquisa">Pesquisa</h2>
+  <!-- ===== FIM: topo com logo ===== -->
+
+  <!-- Contêiner da Busca com Ícone de Funil -->
+  <div class="busca-container">
+    <svg class="lupa" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    <input type="text" id="busca" placeholder="Buscar projeto ou palavra-chave...">
+    
+    <button class="btn-funil" id="btnToggleFiltros" title="Filtros e Ordenação">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+      </svg>
+    </button>
+
+    <!-- Painel flutuante de ordenação e filtros -->
+    <div class="painel-filtros" id="painelFiltros">
+      <div class="grupo-filtro">
+        <label for="ordenacao">Ordenar por:</label>
+        <select id="ordenacao">
+          <option value="az">A-Z (Ordem Alfabética)</option>
+          <option value="za">Z-A</option>
+        </select>
+      </div>
+
+      <div class="grupo-filtro">
+        <label for="nivel">Filtrar por Nível:</label>
+        <select id="nivel">
+          <option value="">Todos os níveis</option>
+          <option value="Iniciante">Iniciante</option>
+          <option value="Intermediário">Intermediário</option>
+          <option value="Avançado">Avançado</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  </div><!-- fim .wrap (topo e busca) -->
+
+  <!-- ===== INÍCIO: carrossel de categorias ===== -->
+  <section class="categorias" aria-label="Categorias de linguagens">
+    <div class="wrap">
+      <div class="cat-cab">
+        <h2><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg> Categorias</h2>
+        <button type="button" class="btn-ver" id="btnVerTodos" aria-expanded="false">Ver todos →</button>
+      </div>
+      <div class="carrossel-wrap">
+        <button type="button" class="seta esq" id="setaEsq" aria-label="Linguagens anteriores">‹</button>
+        <div class="carrossel" id="carrossel"></div>
+        <button type="button" class="seta dir" id="setaDir" aria-label="Próximas linguagens">›</button>
+      </div>
+      <div class="todas" id="todas" hidden></div>
+    </div>
+  </section>
+  <!-- ===== FIM: carrossel de categorias ===== -->
+
+  <div class="wrap pagina">
+  <!-- ===== INÍCIO: cabeçalho e filtros dos projetos ===== -->
+  <div class="cab-projetos" id="projetos">
+    <h2>&lt;/&gt; Projetos</h2>
+    <label class="ordenar">Ordenar por:
+      <select id="ordenarPor">
+        <option value="az">Nome de A-Z</option>
+        <option value="za">Nome de Z-A</option>
+      </select>
+    </label>
+  </div>
+  <div class="barra-filtros">
+    <div class="grupo-pilulas" id="pilulasNivel"><span>Nível:</span>
+      <button type="button" class="pilula" data-nivel="Iniciante" aria-pressed="false">Iniciante</button>
+      <button type="button" class="pilula" data-nivel="Intermediário" aria-pressed="false">Intermediário</button>
+      <button type="button" class="pilula" data-nivel="Avançado" aria-pressed="false">Avançado</button>
+    </div>
+    <div class="grupo-pilulas" id="pilulasIdioma"><span>Idioma:</span></div>
+    <div class="grupo-pilulas"><label for="selLinguagem">Linguagem:</label>
+      <select id="selLinguagem"><option value="">Todas</option></select>
+    </div>
+    <button type="button" class="btn-limpar" id="btnLimpar" hidden>Limpar filtros</button>
+  </div>
+  <!-- ===== FIM: cabeçalho e filtros dos projetos ===== -->
+
+  <p id="contador"></p>
+  <div id="lista">Carregando projetos...</div>
+  </div><!-- fim .wrap (projetos) -->
+
+  <script src="projetos.js"></script>
+  <script>
+    let todosProjetos = [];
+    
+    let quantidadeVisivel = 9;
+    const btnToggleFiltros = document.getElementById('btnToggleFiltros');
+    const painelFiltros = document.getElementById('painelFiltros');
+
+    // INÍCIO: ajudantes da nova interface (filtros extras, ícones e nomes de idioma)
+    const filtros = { linguagem: '', idiomas: new Set() };
+    const ICONES = {
+      'python': 'python/python-original', 'c++': 'cplusplus/cplusplus-original', 'java': 'java/java-original',
+      'javascript': 'javascript/javascript-original', 'typescript': 'typescript/typescript-original',
+      'c#': 'csharp/csharp-original', 'c': 'c/c-original', 'go': 'go/go-original', 'rust': 'rust/rust-original',
+      'php': 'php/php-original', 'ruby': 'ruby/ruby-original', 'kotlin': 'kotlin/kotlin-original',
+      'swift': 'swift/swift-original', 'dart': 'dart/dart-original', 'html': 'html5/html5-original',
+      'css': 'css3/css3-original', 'markdown': 'markdown/markdown-original', 'shell': 'bash/bash-original'
+    };
+    const CORES = { 'python': '#3776ab', 'c++': '#00599c', 'java': '#e4572e', 'javascript': '#c9a900', 'typescript': '#3178c6',
+      'c#': '#68217a', 'go': '#00a7c7', 'rust': '#b7410e', 'php': '#777bb4', 'ruby': '#cc342d', 'kotlin': '#7f52ff' };
+    const chaveLing = n => String(n).toLowerCase().replace(/\s+/g, '');
+    function iconeHtml(nome, tam) {
+      const c = ICONES[chaveLing(nome)];
+      if (!c) return '';
+      return `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/${c}.svg" alt="" width="${tam}" height="${tam}" loading="lazy" onerror="this.remove()">`;
+    }
+    const nomesIdioma = (() => { try { return new Intl.DisplayNames(['pt-BR'], { type: 'language' }); } catch (e) { return null; } })();
+    function rotuloIdioma(codigo) {
+      try {
+        const nome = nomesIdioma && nomesIdioma.of(codigo);
+        return nome ? nome.charAt(0).toUpperCase() + nome.slice(1) : codigo;
+      } catch (e) { return codigo; }
+    }
+    // FIM
+
+    btnToggleFiltros.addEventListener('click', () => { painelFiltros.classList.toggle('ativo'); });
+
+    document.addEventListener('click', (event) => {
+      if (!event.target.closest('.busca-container')) { painelFiltros.classList.remove('ativo'); }
+    });
+
+    // Evita que textos vindos da lista quebrem o HTML
+    function escapar(texto) {
+      const div = document.createElement('div');
+      div.textContent = texto;
+      return div.innerHTML;
+    }
+
+    function mostrarProjetos() {
+      const busca = document.getElementById('busca').value.toLowerCase();
+      const nivel = document.getElementById('nivel').value;
+      const ordenacao = document.getElementById('ordenacao').value;
+
+      let filtrados = todosProjetos.filter(p =>
+        p.nome.toLowerCase().includes(busca) &&
+        (nivel === '' || p.nivel === nivel) &&
+        // INÍCIO: filtros de linguagem e idioma da nova interface
+        (filtros.linguagem === '' || p.linguagens.includes(filtros.linguagem)) &&
+        (filtros.idiomas.size === 0 || p.idiomas.some(i => filtros.idiomas.has(i)))
+        // FIM
+      );
+
+      // Regra de ordem A-Z
+      filtrados.sort((a, b) => {
+        if (ordenacao === 'az') return a.nome.localeCompare(b.nome);
+        if (ordenacao === 'za') return b.nome.localeCompare(a.nome);
+        return 0;
+      });
+
+      document.getElementById('contador').textContent = filtrados.length + ' projeto(s) encontrado(s)';
+      const projetosVisiveis = filtrados.slice(0, quantidadeVisivel);
+      
+
+      document.getElementById('lista').innerHTML = projetosVisiveis.map(p => `
+        <div class="card">
+          <span class="nivel">${escapar(p.nivel)}</span>
+          <h3><a href="${escapar(p.link)}" target="_blank">${escapar(p.nome)}</a></h3>
+          <p>${escapar(p.descricao || 'Sem descrição')}</p>
+          <small>
+            <b>Linguagem:</b> ${escapar(p.linguagens.join(', ') || '-')}<br>
+            <b>Idioma:</b> ${escapar(p.idiomas.join(', '))}<br>
+            <b>Labels:</b> ${escapar(p.labels.join(', '))}
+          </small>
+          ${/* NOVO: ícone da linguagem no canto do card */ p.linguagens.length ? `<span class="card-icone">${iconeHtml(p.linguagens[0], 38)}</span>` : ''}
+        </div>
+      `).join('');
+      if (quantidadeVisivel < filtrados.length) {
+        document.getElementById('lista').innerHTML += `
+        <button id="mostrarMais">Mostrar mais</button>`;
+        document.getElementById('mostrarMais').addEventListener('click', () => {
+          quantidadeVisivel += 9;
+          mostrarProjetos();
+          });
+      }
+    }
+
+    carregarProjetos()
+      .then(projetos => {
+        todosProjetos = projetos;
+        mostrarProjetos();
+        if (typeof montarInterface === 'function') montarInterface(); // carrossel e filtros novos
+      })
+      .catch(erro => {
+        document.getElementById('lista').textContent = 'Não foi possível carregar a lista. ' + erro.message;
+      });
+
+    document.getElementById('busca').addEventListener('input', () => {
+      quantidadeVisivel = 9;
+      mostrarProjetos(); 
+    });
+    document.getElementById('nivel').addEventListener('change', () => {
+      quantidadeVisivel = 9;
+      mostrarProjetos(); 
+    });
+    document.getElementById('ordenacao').addEventListener('change', () => {
+      quantidadeVisivel = 9;
+      mostrarProjetos(); 
+    });
+  </script>
+
+  <!-- ===== INÍCIO: lógica do carrossel e dos filtros novos ===== -->
+  <script>
+    const $ = id => document.getElementById(id);
+    const FAMOSAS = ['Python', 'C++', 'Java', 'JavaScript', 'C#', 'Rust', 'Go', 'PHP'];
+
+    function atualizar() {
+      const nivel = $('nivel').value;
+      document.querySelectorAll('#pilulasNivel .pilula').forEach(b => b.setAttribute('aria-pressed', b.dataset.nivel === nivel));
+      document.querySelectorAll('#pilulasIdioma .pilula').forEach(b => b.setAttribute('aria-pressed', filtros.idiomas.has(b.dataset.idioma)));
+      document.querySelectorAll('[data-ling]').forEach(b => b.setAttribute('aria-pressed', b.dataset.ling === filtros.linguagem));
+      $('selLinguagem').value = filtros.linguagem;
+      $('btnLimpar').hidden = !(nivel || filtros.linguagem || filtros.idiomas.size);
+    }
+    function refiltrar() { quantidadeVisivel = 9; mostrarProjetos(); atualizar(); }
+
+    function escolherLinguagem(nome, rolar) {
+      filtros.linguagem = filtros.linguagem === nome ? '' : nome;
+      refiltrar();
+      if (rolar && filtros.linguagem) $('projetos').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function botaoLinguagem(nome, classe, tam) {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = classe;
+      b.dataset.ling = nome;
+      b.setAttribute('aria-pressed', 'false');
+      b.style.setProperty('--cor', CORES[chaveLing(nome)] || '#555');
+      b.innerHTML = iconeHtml(nome, tam) + '<span></span>';
+      b.lastChild.textContent = nome;
+      b.addEventListener('click', () => escolherLinguagem(nome, true));
+      return b;
+    }
+
+    function montarInterface() {
+      const contagem = {};
+      todosProjetos.forEach(p => p.linguagens.forEach(l => { contagem[l] = (contagem[l] || 0) + 1; }));
+      const todas = Object.keys(contagem).sort((a, b) => a.localeCompare(b));
+      const porFama = Object.keys(contagem).sort((a, b) => contagem[b] - contagem[a]);
+
+      // Carrossel: as famosas primeiro, depois todas as outras (da mais usada para a menos usada)
+      const destaques = FAMOSAS.map(f => todas.find(t => chaveLing(t) === chaveLing(f))).filter(Boolean);
+      porFama.forEach(l => { if (!destaques.includes(l)) destaques.push(l); });
+      $('carrossel').replaceChildren(...destaques.map(n => botaoLinguagem(n, 'lang-card', 78)));
+      $('todas').replaceChildren(...todas.map(n => botaoLinguagem(n, '', 24)));
+
+      $('selLinguagem').replaceChildren(new Option('Todas', ''), ...todas.map(n => new Option(n, n)));
+
+      const idiomas = [...new Set(todosProjetos.flatMap(p => p.idiomas))].sort((a, b) => rotuloIdioma(a).localeCompare(rotuloIdioma(b)));
+      document.querySelectorAll('#pilulasIdioma .pilula').forEach(b => b.remove());
+      idiomas.forEach(cod => {
+        const b = document.createElement('button');
+        b.type = 'button'; b.className = 'pilula'; b.dataset.idioma = cod; b.title = cod;
+        b.setAttribute('aria-pressed', 'false');
+        b.textContent = rotuloIdioma(cod);
+        b.addEventListener('click', () => {
+          filtros.idiomas.has(cod) ? filtros.idiomas.delete(cod) : filtros.idiomas.add(cod);
+          refiltrar();
+        });
+        $('pilulasIdioma').appendChild(b);
+      });
+      atualizar();
+      atualizarSetas();
+    }
+
+    // Carrossel: setas e "Ver todos"
+    const passo = () => { const c = $('carrossel').querySelector('.lang-card'); return c ? c.offsetWidth + (parseFloat(getComputedStyle($('carrossel')).columnGap) || 15) : 300; };
+    function atualizarSetas() {
+      const car = $('carrossel');
+      $('setaEsq').disabled = car.scrollLeft <= 2;
+      $('setaDir').disabled = car.scrollLeft + car.clientWidth >= car.scrollWidth - 2;
+    }
+    $('setaEsq').addEventListener('click', () => $('carrossel').scrollBy({ left: -passo(), behavior: 'smooth' }));
+    $('setaDir').addEventListener('click', () => $('carrossel').scrollBy({ left: passo(), behavior: 'smooth' }));
+    $('carrossel').addEventListener('scroll', atualizarSetas);
+    window.addEventListener('resize', atualizarSetas);
+    $('btnVerTodos').addEventListener('click', () => {
+      const aberto = $('todas').hidden;
+      $('todas').hidden = !aberto;
+      $('btnVerTodos').setAttribute('aria-expanded', aberto);
+      $('btnVerTodos').textContent = aberto ? 'Ver menos ↑' : 'Ver todos →';
+    });
+
+    // Filtros da página
+    document.querySelectorAll('#pilulasNivel .pilula').forEach(b => b.addEventListener('click', () => {
+      $('nivel').value = $('nivel').value === b.dataset.nivel ? '' : b.dataset.nivel;
+      refiltrar();
+    }));
+    $('selLinguagem').addEventListener('change', e => { filtros.linguagem = e.target.value; refiltrar(); });
+    $('btnLimpar').addEventListener('click', () => {
+      filtros.linguagem = ''; filtros.idiomas.clear(); $('nivel').value = '';
+      refiltrar();
+    });
+    $('nivel').addEventListener('change', atualizar); // quando o nível muda pelo funil
+
+    // "Ordenar por" da página e o do funil ficam iguais
+    $('ordenarPor').addEventListener('change', e => { $('ordenacao').value = e.target.value; $('ordenacao').dispatchEvent(new Event('change')); });
+    $('ordenacao').addEventListener('change', e => { $('ordenarPor').value = e.target.value; });
+
+    if (todosProjetos.length) montarInterface(); // dados já carregados antes deste script
+  </script>
+  <!-- ===== FIM: lógica do carrossel e dos filtros novos ===== -->
+</body>
+</html>
