@@ -1,4 +1,4 @@
-Somos do curso de Análise e Desenvolvimento de Sistemas da Fatec Ribeirão Preto, atualmente no segundo semestre, e estamos trabalhando com o tema Open4Community na matéria de Projeto Integrador de Desenvolvimento de Sistemas, onde o objetivo é contribuir para a comunidade de um projeto Open Source do GitHub. Encontramos a Lista Maravilhosa de Projetos Open-Source, um projeto muito interessante, e decidimos contribuir com um Website para ela.
+<div align="justify">Somos do curso de Análise e Desenvolvimento de Sistemas da Fatec Ribeirão Preto, atualmente no segundo semestre, e estamos trabalhando com o tema Open4Community na matéria de Projeto Integrador de Desenvolvimento de Sistemas, onde o objetivo é contribuir para a comunidade de um projeto Open Source do GitHub. Encontramos a Lista Maravilhosa de Projetos Open-Source, um projeto muito interessante, e decidimos contribuir com um Website para ela.</div>
 
 Integrantes/Contribuidores do Projeto:
 
