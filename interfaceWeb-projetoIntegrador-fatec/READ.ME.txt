@@ -2,7 +2,7 @@ Somos do curso de Análise e Desenvolvimento de Sistemas da Fatec Ribeirão Pret
 
 Integrantes/Contribuidores do Projeto:
 - Ana Clara
-- Franciele
-- Jordana
-- Samuel
-- Thiago
+- [Franciele](https://github.com/francielenascimento-hub)
+- [Jordana](https://github.com/m0biius2)
+- [Samuel](https://github.com/SamuelRod99)
+- [Thiago](https://github.com/Thiaguin7)
